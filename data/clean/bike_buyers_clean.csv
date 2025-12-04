@@ -1,0 +1,1001 @@
+ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Commute Distance,Region,Age,Purchased Bike,score_venta
+12496.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,42.0,No,0.25540382024908875
+24107.0,Married,Male,30000.0,3.0,Partial College,Clerical,Yes,1.0,0-1 Miles,Europe,43.0,No,0.003928571428571428
+14177.0,Married,Male,80000.0,5.0,Partial College,Professional,No,2.0,2-5 Miles,Europe,60.0,No,0.43281105574627576
+24381.0,Single,Male,70000.0,0.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,41.0,Yes,0.5990888857444581
+25597.0,Single,Male,30000.0,0.0,Bachelors,Clerical,No,0.0,0-1 Miles,Europe,36.0,Yes,0.9988461538461538
+13507.0,Married,Female,10000.0,2.0,Partial College,Manual,Yes,0.0,1-2 Miles,Europe,50.0,No,0.005011904761904762
+27974.0,Single,Male,130000.0,2.0,High School,Management,Yes,4.0,0-1 Miles,Pacific,33.0,Yes,0.9834282106782107
+19364.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,43.0,Yes,1.0
+22155.0,Married,Male,20000.0,2.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,Pacific,58.0,No,0.004606837606837607
+19280.0,Married,Male,60000.0,2.0,Partial College,Manual,Yes,1.0,0-1 Miles,Europe,43.0,Yes,0.46317488842856464
+22173.0,Married,Female,30000.0,3.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,54.0,Yes,0.9838663514847725
+12697.0,Single,Female,90000.0,0.0,Bachelors,Professional,No,4.0,10+ Miles,Pacific,36.0,No,0.020576583504215085
+11434.0,Married,Male,130000.0,5.0,Partial College,Professional,Yes,1.0,0-1 Miles,Europe,55.0,No,0.005348901098901099
+25323.0,Married,Male,40000.0,2.0,Partial College,Clerical,Yes,1.0,1-2 Miles,Europe,35.0,Yes,0.9962931839402428
+23542.0,Single,Male,60000.0,1.0,Partial College,Skilled Manual,No,1.0,0-1 Miles,Pacific,45.0,Yes,0.9845658369408369
+20870.0,Single,Female,10000.0,2.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,38.0,Yes,0.9908909978909979
+23316.0,Single,Male,30000.0,3.0,Partial College,Clerical,No,2.0,1-2 Miles,Pacific,59.0,Yes,0.9620953768453768
+12610.0,Married,Female,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,47.0,No,0.0015000000000000002
+27183.0,Single,Male,40000.0,2.0,Partial College,Clerical,Yes,1.0,1-2 Miles,Europe,35.0,Yes,0.9934325396825398
+25940.0,Single,Male,20000.0,2.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,Pacific,55.0,Yes,0.8838231141278738
+25598.0,Married,Female,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,36.0,Yes,0.9982517482517482
+21564.0,Single,Female,80000.0,0.0,Bachelors,Professional,Yes,4.0,10+ Miles,Pacific,35.0,No,0.016784916837548416
+19193.0,Single,Male,40000.0,2.0,Partial College,Clerical,Yes,0.0,1-2 Miles,Europe,35.0,Yes,0.983614010989011
+26412.0,Married,Female,80000.0,5.0,High School,Management,No,3.0,5-10 Miles,Europe,56.0,No,0.13431952329146601
+27184.0,Single,Male,40000.0,2.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,34.0,No,0.01520500333000333
+12590.0,Single,Male,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,63.0,No,0.7878551292338476
+17841.0,Single,Male,30000.0,0.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,29.0,Yes,0.9933123543123543
+18283.0,Married,Female,100000.0,0.0,Bachelors,Professional,No,1.0,5-10 Miles,Pacific,40.0,No,0.027500880655292423
+18299.0,Married,Male,70000.0,5.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,44.0,No,0.02133116883116883
+16466.0,Single,Female,20000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,32.0,Yes,0.15868372844289008
+19273.0,Married,Female,20000.0,2.0,Partial College,Manual,Yes,0.0,0-1 Miles,Europe,63.0,No,0.10346754002604383
+22400.0,Married,Male,10000.0,0.0,Partial College,Manual,No,1.0,0-1 Miles,Pacific,26.0,Yes,0.9688606601731601
+20942.0,Single,Female,20000.0,0.0,High School,Manual,No,1.0,5-10 Miles,Europe,31.0,No,0.00865546218487395
+18484.0,Single,Male,80000.0,2.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,50.0,Yes,0.8910158126187541
+12291.0,Single,Male,90000.0,5.0,Partial College,Professional,No,2.0,2-5 Miles,Europe,62.0,Yes,0.8689290063800931
+28380.0,Single,Female,10000.0,5.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,41.0,No,0.03486768969334759
+17891.0,Married,Female,10000.0,2.0,Partial College,Manual,Yes,1.0,0-1 Miles,Europe,50.0,Yes,0.9949123376623377
+27832.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,30.0,No,0.0016250000000000001
+26863.0,Single,Male,20000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,28.0,No,0.004637362637362637
+16259.0,Single,Female,10000.0,4.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,40.0,Yes,0.6516435639523873
+27803.0,Single,Female,30000.0,2.0,Partial College,Clerical,No,0.0,0-1 Miles,Europe,43.0,No,0.0036822344322344326
+14347.0,Single,Female,40000.0,2.0,Bachelors,Management,Yes,2.0,5-10 Miles,Pacific,65.0,Yes,0.955914698047051
+17703.0,Married,Female,10000.0,1.0,Graduate Degree,Manual,Yes,0.0,0-1 Miles,Europe,40.0,No,0.017799714174714175
+17185.0,Married,Female,130000.0,4.0,Partial College,Professional,No,3.0,5-10 Miles,Europe,48.0,Yes,0.9728864468864468
+29380.0,Married,Female,20000.0,3.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,41.0,Yes,0.9961788766788766
+23986.0,Married,Female,20000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,66.0,Yes,0.6675506009447993
+24466.0,Married,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,Pacific,46.0,Yes,0.9814721944721946
+29097.0,Single,Female,40000.0,2.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,52.0,Yes,0.9951527777777777
+19487.0,Married,Male,30000.0,2.0,Partial College,Clerical,No,2.0,0-1 Miles,Europe,42.0,No,0.0
+14939.0,Married,Male,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,39.0,Yes,0.47854798918401853
+13826.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,28.0,No,0.0
+20619.0,Single,Male,80000.0,0.0,Bachelors,Professional,No,4.0,10+ Miles,Pacific,35.0,No,0.02185109330813665
+12558.0,Married,Female,20000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,65.0,No,0.02886678599178599
+24871.0,Single,Female,90000.0,4.0,High School,Management,No,3.0,5-10 Miles,Europe,56.0,No,0.009538766788766789
+17319.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,5-10 Miles,Pacific,42.0,No,0.5444345433548216
+28906.0,Married,Male,80000.0,4.0,High School,Professional,Yes,2.0,10+ Miles,Europe,54.0,No,0.5926590590072045
+12808.0,Married,Male,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9993212669683258
+20567.0,Married,Male,130000.0,4.0,Partial College,Professional,No,4.0,5-10 Miles,Europe,61.0,Yes,0.9662646198830407
+25502.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,43.0,Yes,0.9995
+15580.0,Married,Male,60000.0,2.0,Bachelors,Professional,Yes,1.0,2-5 Miles,Pacific,38.0,Yes,0.5790786223580336
+24185.0,Single,Female,10000.0,1.0,High School,Manual,No,1.0,1-2 Miles,Europe,45.0,No,0.4973199813172723
+19291.0,Single,Female,10000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,35.0,No,0.030893606393606398
+16713.0,Married,Male,40000.0,2.0,Bachelors,Management,Yes,1.0,0-1 Miles,Pacific,52.0,Yes,0.9915075757575758
+16185.0,Single,Male,60000.0,4.0,Bachelors,Professional,Yes,3.0,10+ Miles,Pacific,41.0,No,0.20577624336447872
+14927.0,Married,Female,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9997058823529411
+29337.0,Single,Male,30000.0,2.0,Partial College,Clerical,Yes,2.0,5-10 Miles,Pacific,68.0,No,0.08453849957661876
+29355.0,Married,Female,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9996153846153847
+25303.0,Single,Male,30000.0,0.0,High School,Manual,Yes,1.0,2-5 Miles,Europe,33.0,Yes,0.8092535442498674
+14813.0,Single,Female,20000.0,4.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,43.0,Yes,0.9733580031080031
+16438.0,Married,Female,10000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,30.0,No,0.014474240005780252
+14238.0,Married,Male,120000.0,0.0,Partial High School,Professional,Yes,4.0,10+ Miles,Pacific,36.0,Yes,0.9778805295581613
+16200.0,Single,Female,10000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,35.0,No,0.02010698226352251
+24857.0,Married,Female,130000.0,3.0,High School,Professional,Yes,4.0,0-1 Miles,Europe,52.0,No,0.6565251394846979
+26956.0,Single,Female,20000.0,0.0,Partial College,Manual,No,1.0,2-5 Miles,Europe,36.0,Yes,0.9924111721611721
+14517.0,Married,Female,20000.0,3.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,62.0,No,0.011845238095238096
+12678.0,Single,Female,130000.0,4.0,High School,Management,Yes,4.0,0-1 Miles,Pacific,31.0,No,0.023102258852258854
+16188.0,Single,Female,20000.0,0.0,Partial High School,Manual,No,2.0,1-2 Miles,Europe,26.0,No,0.19169673933980202
+27969.0,Married,Male,80000.0,0.0,Bachelors,Professional,Yes,2.0,10+ Miles,Pacific,29.0,Yes,0.5754941187768199
+15752.0,Married,Male,80000.0,2.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,50.0,Yes,0.9969940476190478
+27745.0,Single,Male,40000.0,2.0,Bachelors,Management,Yes,2.0,5-10 Miles,Pacific,63.0,Yes,0.9684888599962127
+20828.0,Married,Female,30000.0,4.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,45.0,Yes,0.16432498506395565
+19461.0,Single,Female,10000.0,4.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,40.0,No,0.6516435639523873
+26941.0,Married,Male,30000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,47.0,Yes,0.43863627589730536
+28412.0,Single,Male,20000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,29.0,No,0.004637362637362637
+24485.0,Single,Male,40000.0,2.0,Bachelors,Management,No,1.0,5-10 Miles,Pacific,52.0,Yes,0.980871120709356
+16514.0,Single,Male,10000.0,0.0,Partial College,Manual,Yes,1.0,1-2 Miles,Pacific,26.0,Yes,0.9684241522366522
+17191.0,Single,Male,130000.0,3.0,Partial College,Professional,No,3.0,0-1 Miles,Europe,51.0,Yes,0.891209697981757
+19608.0,Married,Male,80000.0,5.0,Bachelors,Professional,Yes,4.0,1-2 Miles,Pacific,40.0,No,0.010193160597572361
+24119.0,Single,Male,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,29.0,No,0.0016250000000000001
+25458.0,Married,Male,20000.0,1.0,High School,Manual,No,1.0,1-2 Miles,Europe,40.0,Yes,0.9943594322344323
+26886.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,29.0,Yes,0.9933123543123543
+28436.0,Single,Male,30000.0,0.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,30.0,Yes,0.9933123543123543
+19562.0,Single,Female,60000.0,2.0,Bachelors,Professional,Yes,1.0,2-5 Miles,Pacific,37.0,Yes,0.9930079365079366
+15608.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,33.0,No,0.020341991341991342
+16487.0,Single,Female,30000.0,3.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,55.0,No,0.023998718386876283
+17197.0,Single,Female,90000.0,5.0,Partial College,Professional,Yes,2.0,10+ Miles,Europe,62.0,No,0.03264245476745476
+12507.0,Married,Male,30000.0,1.0,Partial College,Clerical,Yes,1.0,0-1 Miles,Europe,43.0,No,0.1758427073423877
+23940.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,Europe,44.0,Yes,0.9996666666666667
+19441.0,Married,Male,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,43.0,Yes,0.9963325563325565
+26852.0,Married,Female,20000.0,3.0,High School,Manual,Yes,2.0,0-1 Miles,Europe,43.0,No,0.01163345864661654
+12274.0,Single,Male,10000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,35.0,No,0.025101939726939727
+20236.0,Single,Male,60000.0,3.0,Bachelors,Professional,No,2.0,0-1 Miles,Pacific,43.0,Yes,0.9971944444444445
+24149.0,Married,Male,10000.0,2.0,Partial College,Manual,Yes,0.0,1-2 Miles,Europe,49.0,No,0.008392857142857141
+26139.0,Single,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,Pacific,45.0,No,0.04788507326007326
+18491.0,Single,Female,70000.0,2.0,High School,Professional,Yes,2.0,5-10 Miles,Pacific,49.0,Yes,0.9963473389355741
+22707.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,30.0,No,0.0016250000000000001
+20430.0,Married,Male,70000.0,2.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,52.0,Yes,0.9960492424242424
+27494.0,Single,Female,40000.0,2.0,Partial College,Skilled Manual,No,2.0,1-2 Miles,Pacific,53.0,Yes,0.26979343736329037
+26829.0,Married,Female,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9993212669683258
+28395.0,Single,Male,40000.0,0.0,Bachelors,Professional,No,0.0,0-1 Miles,Europe,39.0,Yes,0.99775
+21006.0,Single,Female,60000.0,1.0,Partial College,Manual,No,0.0,0-1 Miles,Europe,46.0,Yes,0.9813223443223441
+14682.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,5-10 Miles,Pacific,38.0,No,0.031512361005008066
+17650.0,Single,Female,40000.0,2.0,Partial College,Clerical,Yes,2.0,1-2 Miles,Europe,35.0,No,0.01120879120879121
+29191.0,Single,Female,130000.0,1.0,Graduate Degree,Management,No,1.0,0-1 Miles,Pacific,36.0,Yes,0.9787655122655123
+15030.0,Married,Male,20000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Pacific,26.0,Yes,0.9803762765012766
+24140.0,Single,Male,10000.0,0.0,Graduate Degree,Manual,No,0.0,0-1 Miles,Europe,30.0,Yes,0.898596255052137
+22496.0,Married,Female,30000.0,1.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,Europe,42.0,No,0.007030303030303031
+24065.0,Single,Female,20000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,40.0,Yes,0.9958931623931623
+19914.0,Married,Male,80000.0,5.0,Bachelors,Management,Yes,2.0,2-5 Miles,Europe,62.0,No,0.01174025974025974
+12871.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,29.0,No,0.0016250000000000001
+22988.0,Married,Female,40000.0,2.0,Bachelors,Management,Yes,2.0,5-10 Miles,Pacific,66.0,Yes,0.6744369479205006
+15922.0,Married,Male,130000.0,2.0,High School,Professional,Yes,4.0,0-1 Miles,Europe,48.0,No,0.01850732600732601
+12344.0,Single,Female,80000.0,0.0,Bachelors,Professional,No,3.0,10+ Miles,Pacific,31.0,No,0.017378066378066378
+23627.0,Single,Female,100000.0,3.0,Partial College,Management,No,4.0,5-10 Miles,Europe,56.0,No,0.012736818736818738
+27775.0,Single,Female,40000.0,0.0,Bachelors,Clerical,No,0.0,0-1 Miles,Europe,38.0,Yes,0.9991666666666668
+29301.0,Married,Male,80000.0,5.0,Bachelors,Professional,Yes,4.0,1-2 Miles,Pacific,40.0,No,0.010193160597572361
+12716.0,Single,Male,30000.0,0.0,Partial College,Clerical,Yes,1.0,2-5 Miles,Europe,32.0,No,0.01079532967032967
+12472.0,Married,Male,30000.0,1.0,Bachelors,Clerical,Yes,1.0,2-5 Miles,Europe,39.0,No,0.01683802308802309
+20970.0,Single,Male,10000.0,2.0,Partial College,Manual,Yes,1.0,0-1 Miles,Europe,52.0,Yes,0.9929936868686869
+26818.0,Single,Male,10000.0,3.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,39.0,Yes,0.994029526029526
+12993.0,Married,Male,60000.0,2.0,Bachelors,Professional,Yes,1.0,2-5 Miles,Pacific,37.0,No,0.19259498997734298
+14192.0,Married,Male,90000.0,4.0,High School,Management,Yes,3.0,5-10 Miles,Europe,56.0,Yes,0.9353132101816309
+19477.0,Married,Male,40000.0,0.0,Bachelors,Professional,Yes,0.0,0-1 Miles,Europe,40.0,Yes,0.9927820512820514
+26796.0,Single,Male,40000.0,2.0,Bachelors,Management,Yes,2.0,5-10 Miles,Pacific,65.0,Yes,0.9649958946282474
+21094.0,Single,Female,30000.0,2.0,Partial College,Clerical,Yes,2.0,0-1 Miles,Europe,42.0,No,0.0019230769230769232
+12234.0,Married,Male,10000.0,2.0,Partial College,Manual,Yes,1.0,2-5 Miles,Europe,52.0,No,0.01447069597069597
+28683.0,Single,Female,10000.0,1.0,High School,Manual,No,1.0,5-10 Miles,Europe,35.0,Yes,0.4659072535221916
+17994.0,Single,Male,20000.0,2.0,High School,Manual,Yes,2.0,0-1 Miles,Europe,42.0,No,0.00780195681511471
+24273.0,Married,Female,20000.0,2.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,Pacific,55.0,Yes,0.6784895894373868
+26547.0,Single,Female,30000.0,2.0,Partial College,Clerical,No,2.0,5-10 Miles,Pacific,60.0,Yes,0.9522089299589298
+22500.0,Single,Male,40000.0,0.0,Bachelors,Professional,No,0.0,0-1 Miles,Europe,40.0,Yes,0.99775
+23993.0,Single,Female,10000.0,0.0,Partial College,Manual,No,1.0,0-1 Miles,Pacific,26.0,Yes,0.9723527236652236
+14832.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,42.0,Yes,1.0
+16614.0,Married,Female,80000.0,0.0,Bachelors,Professional,Yes,3.0,10+ Miles,Pacific,32.0,No,0.01458212620712621
+20877.0,Single,Male,30000.0,1.0,Bachelors,Clerical,Yes,0.0,1-2 Miles,Europe,37.0,Yes,0.9969711538461539
+20729.0,Married,Female,40000.0,2.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,34.0,No,0.009531926406926407
+22464.0,Married,Male,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9996153846153847
+19475.0,Married,Female,40000.0,0.0,Bachelors,Professional,No,0.0,0-1 Miles,Europe,40.0,Yes,0.9973653846153847
+19675.0,Married,Male,20000.0,4.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,60.0,No,0.006714285714285713
+12728.0,Single,Male,30000.0,0.0,Partial College,Clerical,No,1.0,1-2 Miles,Europe,27.0,No,0.008335664335664336
+26154.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,Pacific,43.0,Yes,0.9844781468531469
+29117.0,Single,Male,100000.0,1.0,Bachelors,Management,No,3.0,0-1 Miles,Pacific,48.0,No,0.05429817608861726
+17845.0,Single,Female,20000.0,0.0,Partial High School,Manual,No,2.0,1-2 Miles,Europe,32.0,No,0.055743526275066506
+25058.0,Married,Male,100000.0,1.0,Bachelors,Management,Yes,3.0,2-5 Miles,Pacific,47.0,No,0.013216269841269841
+23426.0,Single,Male,80000.0,5.0,Graduate Degree,Management,Yes,3.0,0-1 Miles,Pacific,40.0,No,0.01375613275613276
+14798.0,Single,Female,10000.0,4.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,41.0,Yes,0.9337342171717169
+12664.0,Married,Female,130000.0,5.0,Partial College,Professional,Yes,4.0,0-1 Miles,Europe,59.0,No,0.022744047619047622
+23979.0,Single,Male,10000.0,2.0,Partial College,Manual,No,0.0,0-1 Miles,Europe,50.0,No,0.00930952380952381
+25605.0,Single,Female,20000.0,2.0,Partial College,Manual,No,1.0,0-1 Miles,Europe,54.0,Yes,0.9913459595959595
+20797.0,Married,Female,10000.0,1.0,Bachelors,Manual,Yes,0.0,0-1 Miles,Europe,48.0,No,0.003761904761904762
+21980.0,Single,Female,60000.0,1.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,44.0,Yes,0.9887789489921843
+25460.0,Married,Female,20000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,40.0,Yes,0.9958931623931623
+29181.0,Single,Female,60000.0,2.0,Bachelors,Professional,No,1.0,0-1 Miles,Pacific,38.0,Yes,0.9990873015873015
+24279.0,Single,Male,40000.0,2.0,Partial College,Skilled Manual,No,2.0,1-2 Miles,Pacific,52.0,No,0.0216969696969697
+22402.0,Married,Male,10000.0,0.0,Partial College,Manual,Yes,1.0,2-5 Miles,Pacific,25.0,Yes,0.9462123085248086
+15465.0,Married,Female,10000.0,0.0,Partial College,Manual,No,1.0,0-1 Miles,Pacific,25.0,No,0.7059460625159155
+26757.0,Single,Male,90000.0,1.0,Bachelors,Professional,Yes,1.0,2-5 Miles,Pacific,47.0,Yes,0.9902792207792208
+14233.0,Single,Male,100000.0,0.0,High School,Management,Yes,3.0,10+ Miles,Pacific,35.0,No,0.22319884632481382
+14058.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,1.0,5-10 Miles,Pacific,41.0,Yes,0.3118392097668414
+12273.0,Married,Male,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,47.0,No,0.004166666666666667
+17203.0,Married,Female,130000.0,4.0,Partial College,Professional,Yes,4.0,5-10 Miles,Europe,61.0,Yes,0.9482638567572775
+18144.0,Married,Female,80000.0,5.0,Bachelors,Management,Yes,2.0,2-5 Miles,Europe,61.0,No,0.009109765234765234
+23963.0,Married,Male,10000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,33.0,No,0.015550177956718203
+17907.0,Married,Female,10000.0,0.0,Partial College,Manual,Yes,1.0,2-5 Miles,Pacific,27.0,No,0.15828008143816963
+19442.0,Single,Male,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9938174603174602
+17504.0,Single,Female,80000.0,2.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,52.0,Yes,0.9968825757575758
+12253.0,Single,Female,20000.0,0.0,Partial College,Manual,Yes,0.0,0-1 Miles,Pacific,29.0,Yes,0.981887987012987
+27304.0,Single,Female,110000.0,2.0,Partial College,Professional,No,3.0,5-10 Miles,Europe,48.0,No,0.02192007992007992
+14191.0,Married,Male,130000.0,4.0,Partial College,Professional,No,2.0,10+ Miles,Europe,55.0,Yes,0.9428499373433581
+12212.0,Married,Female,10000.0,0.0,Graduate Degree,Manual,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9853808968808968
+25529.0,Single,Male,10000.0,1.0,Graduate Degree,Manual,Yes,0.0,0-1 Miles,Europe,44.0,No,0.012587301587301586
+22170.0,Married,Female,30000.0,3.0,Partial College,Clerical,No,2.0,1-2 Miles,Pacific,55.0,Yes,0.9326246991312782
+19445.0,Married,Female,10000.0,2.0,High School,Manual,No,1.0,0-1 Miles,Europe,38.0,No,0.01777380952380952
+15265.0,Single,Male,40000.0,2.0,Bachelors,Management,Yes,2.0,5-10 Miles,Pacific,66.0,Yes,0.9589462914536443
+28918.0,Married,Female,130000.0,4.0,High School,Management,No,4.0,10+ Miles,Europe,58.0,No,0.32377696913939175
+15799.0,Married,Female,90000.0,1.0,Bachelors,Professional,Yes,1.0,2-5 Miles,Pacific,47.0,Yes,0.9952142857142857
+11047.0,Married,Female,30000.0,3.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,56.0,Yes,0.89553290934212
+18151.0,Single,Male,80000.0,5.0,Partial College,Professional,No,2.0,10+ Miles,Europe,59.0,No,0.0327979797979798
+20606.0,Married,Female,70000.0,0.0,Bachelors,Professional,Yes,4.0,10+ Miles,Pacific,32.0,Yes,0.9734555517581834
+19482.0,Married,Male,30000.0,1.0,Partial College,Clerical,Yes,1.0,0-1 Miles,Europe,44.0,Yes,1.0
+16489.0,Married,Male,30000.0,3.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,55.0,No,0.012502201015358911
+26944.0,Single,Male,60000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,36.0,Yes,0.991053946053946
+15682.0,Single,Female,80000.0,5.0,Bachelors,Management,Yes,2.0,10+ Miles,Europe,62.0,No,0.02370566933066933
+26032.0,Married,Female,70000.0,5.0,Bachelors,Professional,Yes,4.0,10+ Miles,Pacific,41.0,No,0.010360133287764866
+17843.0,Single,Female,10000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,32.0,No,0.04613806229460253
+25559.0,Single,Male,20000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Pacific,25.0,Yes,0.9765072288822289
+16209.0,Single,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,1.0,1-2 Miles,Europe,36.0,No,0.4922683880661817
+11147.0,Married,Male,60000.0,2.0,Graduate Degree,Management,Yes,1.0,0-1 Miles,Pacific,67.0,Yes,0.9328120311061484
+15214.0,Single,Female,100000.0,0.0,Graduate Degree,Management,No,1.0,1-2 Miles,Pacific,39.0,Yes,0.980298520923521
+11453.0,Single,Male,80000.0,0.0,Bachelors,Professional,No,3.0,10+ Miles,Pacific,33.0,Yes,0.5082738025433456
+24584.0,Single,Male,60000.0,0.0,Bachelors,Professional,No,3.0,2-5 Miles,Pacific,31.0,No,0.012828622358034123
+12585.0,Married,Male,10000.0,1.0,High School,Manual,Yes,0.0,2-5 Miles,Pacific,27.0,Yes,0.9666920301920302
+18626.0,Single,Male,40000.0,2.0,Partial College,Clerical,Yes,1.0,1-2 Miles,Europe,33.0,Yes,0.9934325396825398
+29298.0,Single,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,Pacific,46.0,Yes,0.9815555278055278
+24842.0,Single,Female,90000.0,3.0,High School,Professional,No,1.0,2-5 Miles,Europe,51.0,No,0.5390829687168697
+15657.0,Married,Male,30000.0,3.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,46.0,Yes,0.9909671717171717
+11415.0,Single,Male,90000.0,5.0,Partial College,Professional,No,2.0,10+ Miles,Europe,62.0,No,0.050486777111777126
+28729.0,Single,Female,20000.0,0.0,Partial High School,Manual,Yes,2.0,1-2 Miles,Europe,26.0,Yes,0.9534830031080029
+22633.0,Single,Female,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9988888888888888
+25649.0,Single,Female,30000.0,3.0,Partial College,Clerical,Yes,0.0,0-1 Miles,Europe,42.0,Yes,0.4637456020286904
+14669.0,Married,Female,80000.0,4.0,Graduate Degree,Management,Yes,1.0,0-1 Miles,Pacific,36.0,No,0.6665429709179709
+19299.0,Married,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,Europe,36.0,Yes,0.7585340158207805
+20946.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,30.0,No,0.0016250000000000001
+11451.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,4.0,10+ Miles,Pacific,31.0,Yes,0.0330083804654238
+25553.0,Married,Male,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,65.0,Yes,0.804804744676884
+27951.0,Single,Male,80000.0,4.0,Partial College,Professional,No,2.0,2-5 Miles,Europe,54.0,Yes,0.9747321428571426
+25026.0,Married,Male,20000.0,2.0,Partial High School,Clerical,Yes,3.0,5-10 Miles,Pacific,54.0,No,0.021139880952380955
+13673.0,Single,Female,20000.0,2.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,25.0,No,0.03578079741895531
+16043.0,Single,Male,10000.0,1.0,Bachelors,Manual,Yes,0.0,0-1 Miles,Europe,48.0,No,0.008095238095238095
+22399.0,Single,Male,10000.0,0.0,Partial College,Manual,Yes,1.0,1-2 Miles,Pacific,26.0,Yes,0.9684241522366522
+27696.0,Married,Male,60000.0,1.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,43.0,Yes,0.9914857226107228
+25313.0,Single,Male,10000.0,0.0,Partial High School,Manual,No,2.0,1-2 Miles,Europe,35.0,No,0.02795059698213723
+13813.0,Married,Female,30000.0,3.0,Partial College,Clerical,No,0.0,0-1 Miles,Europe,42.0,No,0.007066849816849816
+18711.0,Single,Female,70000.0,5.0,Bachelors,Professional,Yes,4.0,10+ Miles,Pacific,39.0,No,0.019758942811574393
+19650.0,Married,Female,30000.0,2.0,Partial College,Clerical,No,2.0,0-1 Miles,Pacific,67.0,No,0.019540674603174605
+14135.0,Married,Male,20000.0,1.0,Partial College,Manual,Yes,0.0,1-2 Miles,Europe,43.0,No,0.005184398934398934
+12833.0,Single,Female,20000.0,3.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,42.0,Yes,0.997650738150738
+26849.0,Married,Male,10000.0,3.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,43.0,No,0.0057554824561403505
+20962.0,Married,Female,20000.0,1.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,45.0,No,0.009691558441558442
+28915.0,Single,Male,80000.0,5.0,High School,Management,Yes,3.0,10+ Miles,Europe,57.0,No,0.0337761544011544
+22830.0,Married,Male,120000.0,4.0,Partial College,Management,Yes,3.0,10+ Miles,Europe,56.0,No,0.020765567765567764
+14777.0,Married,Female,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9993212669683258
+12591.0,Married,Female,30000.0,4.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,45.0,No,0.16432498506395565
+24174.0,Married,Male,20000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Pacific,27.0,Yes,0.9852552447552447
+24611.0,Married,Male,90000.0,0.0,Bachelors,Professional,No,4.0,10+ Miles,Pacific,35.0,Yes,0.981258221310853
+11340.0,Married,Female,10000.0,1.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,70.0,Yes,0.2653722191747246
+25693.0,Single,Female,30000.0,5.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,44.0,Yes,0.9583128399378399
+25555.0,Married,Female,10000.0,0.0,Partial College,Manual,No,1.0,0-1 Miles,Pacific,26.0,Yes,0.7059460625159155
+22006.0,Married,Male,70000.0,5.0,Partial College,Skilled Manual,Yes,3.0,5-10 Miles,Pacific,46.0,No,0.012472943722943724
+20060.0,Single,Female,30000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,34.0,Yes,0.6801213037693299
+17702.0,Married,Male,10000.0,1.0,Graduate Degree,Manual,Yes,0.0,0-1 Miles,Europe,37.0,No,0.020787809412809412
+12503.0,Single,Female,30000.0,3.0,Partial College,Clerical,Yes,2.0,0-1 Miles,Europe,27.0,No,0.0021410533910533906
+23908.0,Single,Male,30000.0,1.0,Bachelors,Clerical,No,1.0,0-1 Miles,Europe,39.0,Yes,1.0
+22527.0,Single,Female,20000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,29.0,No,0.006065934065934066
+19057.0,Married,Female,120000.0,3.0,Bachelors,Management,No,2.0,10+ Miles,Europe,52.0,Yes,0.5199601489197075
+18494.0,Married,Male,110000.0,5.0,Bachelors,Management,Yes,4.0,2-5 Miles,Pacific,48.0,Yes,0.6674170527185231
+11249.0,Married,Female,130000.0,3.0,Partial College,Professional,Yes,3.0,0-1 Miles,Europe,51.0,Yes,0.9910915750915751
+21568.0,Married,Female,100000.0,0.0,High School,Management,Yes,4.0,10+ Miles,Pacific,34.0,Yes,0.8498083101109419
+13981.0,Married,Female,10000.0,5.0,High School,Skilled Manual,No,3.0,1-2 Miles,Pacific,62.0,No,0.0252281746031746
+23432.0,Single,Male,70000.0,0.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,37.0,Yes,0.5960752049807774
+22931.0,Married,Male,100000.0,5.0,Graduate Degree,Management,No,1.0,1-2 Miles,Pacific,77.5,Yes,0.5555221368543736
+18172.0,Married,Male,130000.0,4.0,High School,Professional,Yes,3.0,0-1 Miles,Europe,55.0,No,0.012844655344655342
+12666.0,Single,Male,60000.0,0.0,Bachelors,Professional,No,4.0,2-5 Miles,Pacific,31.0,No,0.012828622358034123
+20598.0,Married,Male,100000.0,3.0,Partial High School,Professional,Yes,0.0,10+ Miles,Europe,59.0,Yes,0.9164906299840507
+21375.0,Single,Male,20000.0,2.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,Pacific,57.0,No,0.41559659006489824
+20839.0,Single,Female,30000.0,3.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,47.0,Yes,0.993189393939394
+21738.0,Married,Male,20000.0,1.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,43.0,No,0.009151570651570651
+14164.0,Single,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,Europe,36.0,Yes,0.9919538239538238
+14193.0,Single,Female,100000.0,3.0,Partial College,Management,Yes,4.0,10+ Miles,Europe,56.0,No,0.017841374269005845
+12705.0,Married,Male,130000.0,0.0,Bachelors,Management,Yes,4.0,0-1 Miles,Pacific,37.0,Yes,0.8458351811587108
+22672.0,Single,Female,30000.0,2.0,Partial College,Clerical,Yes,0.0,0-1 Miles,Europe,43.0,No,0.07515284206061058
+26219.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,1-2 Miles,Europe,33.0,Yes,0.9853392857142858
+28468.0,Married,Female,10000.0,2.0,Partial College,Manual,Yes,0.0,1-2 Miles,Europe,51.0,No,0.006511904761904762
+23419.0,Single,Female,70000.0,5.0,Bachelors,Professional,Yes,3.0,10+ Miles,Pacific,39.0,No,0.017653679653679654
+17964.0,Married,Male,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9996153846153847
+20919.0,Single,Female,30000.0,2.0,Partial College,Clerical,Yes,2.0,0-1 Miles,Europe,42.0,No,0.0019230769230769232
+20927.0,Single,Female,20000.0,5.0,High School,Manual,Yes,2.0,0-1 Miles,Europe,27.0,No,0.1572948595736908
+13133.0,Single,Male,100000.0,5.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,47.0,Yes,0.7665011720305838
+19626.0,Married,Male,70000.0,5.0,Partial College,Skilled Manual,Yes,3.0,5-10 Miles,Pacific,45.0,No,0.012472943722943724
+21039.0,Single,Female,50000.0,0.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,Europe,37.0,Yes,0.9944285714285716
+12231.0,Single,Female,10000.0,2.0,Partial College,Manual,Yes,0.0,0-1 Miles,Europe,51.0,Yes,0.9867317821067821
+25665.0,Single,Female,20000.0,0.0,High School,Manual,No,1.0,1-2 Miles,Europe,28.0,No,0.007761904761904762
+24061.0,Married,Male,10000.0,4.0,Partial High School,Manual,Yes,1.0,0-1 Miles,Europe,40.0,Yes,0.9527290556665555
+26879.0,Single,Female,20000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,30.0,No,0.006065934065934066
+12284.0,Married,Female,30000.0,0.0,Bachelors,Clerical,No,0.0,0-1 Miles,Europe,36.0,Yes,0.9993212669683258
+26654.0,Married,Female,90000.0,1.0,Graduate Degree,Management,Yes,0.0,0-1 Miles,Pacific,37.0,Yes,0.9933008658008659
+14545.0,Married,Female,10000.0,2.0,Partial College,Manual,Yes,0.0,1-2 Miles,Europe,49.0,No,0.005011904761904762
+24201.0,Married,Female,10000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.8323044169882401
+20625.0,Married,Male,100000.0,0.0,High School,Management,Yes,3.0,10+ Miles,Pacific,35.0,Yes,0.9782233044733044
+16390.0,Single,Male,30000.0,1.0,Bachelors,Clerical,No,0.0,0-1 Miles,Europe,38.0,Yes,0.9991666666666668
+14804.0,Single,Female,10000.0,3.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,43.0,No,0.00702532372598162
+12629.0,Single,Male,20000.0,1.0,Partial College,Manual,No,0.0,0-1 Miles,Europe,37.0,No,0.23648065129315135
+14696.0,Single,Male,10000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,34.0,No,0.017161594318134566
+22005.0,Married,Female,70000.0,5.0,Partial College,Skilled Manual,No,3.0,5-10 Miles,Pacific,46.0,No,0.011401515151515152
+14544.0,Single,Male,10000.0,1.0,Partial College,Manual,Yes,0.0,0-1 Miles,Europe,49.0,No,0.01005952380952381
+14312.0,Married,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,Pacific,45.0,No,0.03800412087912088
+29120.0,Single,Female,100000.0,1.0,Bachelors,Management,Yes,4.0,2-5 Miles,Pacific,48.0,No,0.4107655053280053
+24187.0,Single,Female,30000.0,3.0,Graduate Degree,Clerical,No,0.0,0-1 Miles,Europe,46.0,Yes,0.9909671717171717
+15758.0,Married,Male,130000.0,0.0,Graduate Degree,Management,Yes,0.0,5-10 Miles,Pacific,48.0,No,0.057826818606230374
+29094.0,Married,Male,30000.0,3.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,54.0,Yes,0.9208814900419423
+28319.0,Single,Female,60000.0,1.0,Partial College,Skilled Manual,No,1.0,0-1 Miles,Pacific,46.0,Yes,0.9868436147186148
+16406.0,Married,Male,40000.0,0.0,Bachelors,Clerical,No,0.0,0-1 Miles,Europe,38.0,Yes,0.9984879336349926
+20923.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,42.0,Yes,0.25540382024908875
+11378.0,Single,Female,10000.0,1.0,High School,Manual,No,1.0,2-5 Miles,Europe,46.0,Yes,0.9864645632145632
+20851.0,Single,Male,20000.0,0.0,Partial College,Manual,No,1.0,2-5 Miles,Europe,36.0,Yes,0.7752895894954716
+21557.0,Single,Female,110000.0,0.0,Partial College,Management,Yes,3.0,10+ Miles,Pacific,32.0,Yes,0.977227813852814
+26663.0,Single,Female,60000.0,2.0,Bachelors,Professional,No,1.0,0-1 Miles,Pacific,39.0,Yes,0.9996428571428573
+11896.0,Married,Male,100000.0,1.0,Graduate Degree,Management,Yes,0.0,2-5 Miles,Pacific,36.0,Yes,0.9843376623376624
+14189.0,Married,Female,90000.0,4.0,High School,Professional,No,2.0,2-5 Miles,Europe,54.0,Yes,0.6321344516700971
+13136.0,Married,Female,30000.0,2.0,Partial College,Clerical,No,2.0,5-10 Miles,Pacific,69.0,No,0.023862103174603175
+25906.0,Single,Female,10000.0,5.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,62.0,No,0.033824897324897324
+17926.0,Married,Female,60000.0,0.0,Bachelors,Clerical,No,0.0,0-1 Miles,Pacific,28.0,Yes,0.9913820346320346
+26928.0,Single,Male,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,62.0,Yes,0.9560778665778664
+20897.0,Married,Female,30000.0,1.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,Europe,40.0,No,0.00845887445887446
+28207.0,Married,Male,80000.0,4.0,Graduate Degree,Management,Yes,1.0,0-1 Miles,Pacific,36.0,Yes,0.9584875541125539
+25923.0,Single,Male,10000.0,2.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,Pacific,58.0,No,0.19059297288109203
+11000.0,Married,Male,90000.0,2.0,Bachelors,Professional,Yes,0.0,1-2 Miles,Pacific,40.0,Yes,0.99275
+20974.0,Married,Male,10000.0,2.0,Bachelors,Clerical,Yes,1.0,0-1 Miles,Europe,66.0,No,0.019617139804639805
+28758.0,Married,Male,40000.0,2.0,Partial College,Clerical,Yes,1.0,1-2 Miles,Europe,35.0,Yes,0.9962931839402428
+11381.0,Married,Female,20000.0,2.0,Partial College,Manual,Yes,1.0,2-5 Miles,Europe,47.0,Yes,0.7133959908555498
+17522.0,Married,Male,120000.0,4.0,Bachelors,Management,Yes,1.0,2-5 Miles,Pacific,47.0,No,0.4197716486944429
+21207.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,Pacific,46.0,No,0.045742216117216114
+28102.0,Married,Male,20000.0,4.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,58.0,Yes,0.01051159951159951
+23105.0,Single,Male,40000.0,3.0,Partial High School,Clerical,No,2.0,5-10 Miles,Pacific,52.0,Yes,0.9806683859441212
+18740.0,Married,Male,80000.0,5.0,Bachelors,Professional,No,1.0,0-1 Miles,Pacific,47.0,Yes,0.5214217448787879
+21213.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,1.0,5-10 Miles,Pacific,41.0,No,0.3118392097668414
+17352.0,Married,Male,50000.0,2.0,Graduate Degree,Management,Yes,1.0,5-10 Miles,Pacific,64.0,Yes,0.9336529124470297
+14154.0,Married,Male,30000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,35.0,Yes,0.997453135100194
+19066.0,Married,Male,130000.0,4.0,Partial College,Professional,No,3.0,10+ Miles,Europe,54.0,No,0.632727832553919
+11386.0,Married,Female,30000.0,3.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,45.0,No,0.12594497354024203
+20228.0,Married,Male,100000.0,0.0,Graduate Degree,Management,Yes,0.0,2-5 Miles,Pacific,40.0,Yes,0.9827886002886005
+16675.0,Single,Female,130000.0,0.0,Graduate Degree,Management,No,3.0,0-1 Miles,Pacific,47.0,Yes,0.9795376984126983
+16410.0,Single,Female,10000.0,4.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,41.0,Yes,0.9337342171717169
+27760.0,Single,Female,40000.0,0.0,Graduate Degree,Clerical,No,0.0,0-1 Miles,Europe,37.0,Yes,0.9991666666666668
+22930.0,Married,Male,90000.0,4.0,Bachelors,Professional,Yes,0.0,1-2 Miles,Pacific,38.0,Yes,0.9801349206349205
+23780.0,Single,Male,40000.0,2.0,Partial College,Clerical,No,2.0,0-1 Miles,Europe,36.0,Yes,0.9922655122655122
+20994.0,Married,Female,20000.0,0.0,Bachelors,Clerical,No,0.0,0-1 Miles,Pacific,26.0,Yes,0.9811729797979797
+28379.0,Married,Male,30000.0,1.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,Europe,40.0,No,0.5614895092652444
+14865.0,Single,Male,40000.0,2.0,Partial College,Clerical,Yes,2.0,1-2 Miles,Europe,36.0,No,0.33486935205317564
+12663.0,Married,Female,90000.0,5.0,Partial High School,Skilled Manual,Yes,2.0,10+ Miles,Europe,59.0,No,0.020703990453990455
+24898.0,Single,Female,80000.0,0.0,Bachelors,Professional,Yes,3.0,10+ Miles,Pacific,32.0,No,0.016510697635697638
+19508.0,Married,Male,10000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,30.0,No,0.012974240005780253
+11489.0,Single,Female,20000.0,0.0,Partial High School,Manual,No,2.0,1-2 Miles,Europe,35.0,Yes,0.8852868034743033
+18160.0,Married,Male,130000.0,3.0,High School,Professional,Yes,4.0,5-10 Miles,Europe,51.0,Yes,0.6967793848738119
+25241.0,Married,Male,90000.0,2.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,47.0,No,0.02963793804234981
+24369.0,Married,Male,80000.0,5.0,Graduate Degree,Management,No,2.0,0-1 Miles,Pacific,39.0,No,0.02480772005772006
+27165.0,Single,Male,20000.0,0.0,Partial High School,Manual,No,2.0,0-1 Miles,Europe,34.0,No,0.025503627285167533
+29424.0,Married,Male,10000.0,0.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,32.0,No,0.015780100811641058
+15926.0,Single,Female,120000.0,3.0,High School,Professional,Yes,4.0,5-10 Miles,Europe,50.0,Yes,0.9925955433455433
+14554.0,Married,Male,20000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,66.0,No,0.045702519099258224
+16468.0,Single,Male,30000.0,0.0,Partial College,Clerical,Yes,1.0,2-5 Miles,Europe,30.0,No,0.0034583333333333332
+19174.0,Single,Female,30000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,32.0,Yes,0.5111236972092235
+19183.0,Single,Male,10000.0,0.0,Partial High School,Manual,Yes,2.0,1-2 Miles,Europe,35.0,No,0.02210368001022026
+13683.0,Single,Female,30000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,32.0,No,0.5111236972092235
+17848.0,Single,Male,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,31.0,Yes,0.16508359145827178
+17894.0,Married,Female,20000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,50.0,Yes,0.996
+25651.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,No,0.0,0-1 Miles,Europe,43.0,Yes,0.9961408730158731
+22936.0,Single,Female,60000.0,1.0,Partial College,Skilled Manual,No,1.0,0-1 Miles,Pacific,45.0,Yes,0.9840658369408369
+23915.0,Married,Male,20000.0,2.0,High School,Manual,Yes,2.0,0-1 Miles,Europe,42.0,No,0.0058788798920377874
+24121.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,29.0,Yes,0.9933123543123543
+27878.0,Single,Male,20000.0,0.0,Partial College,Manual,No,0.0,0-1 Miles,Pacific,28.0,Yes,0.981376998001998
+13572.0,Single,Male,10000.0,3.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,37.0,Yes,0.9895850815850816
+27941.0,Married,Female,80000.0,4.0,Partial College,Professional,Yes,2.0,2-5 Miles,Europe,53.0,No,0.0639363365392777
+26354.0,Single,Male,40000.0,0.0,Graduate Degree,Clerical,No,0.0,0-1 Miles,Europe,38.0,Yes,0.9991666666666668
+14785.0,Single,Male,30000.0,1.0,Bachelors,Clerical,No,1.0,1-2 Miles,Europe,39.0,No,0.00906755744255744
+17238.0,Single,Male,80000.0,0.0,Bachelors,Professional,Yes,3.0,10+ Miles,Pacific,32.0,No,0.026869081898493664
+23608.0,Married,Female,130000.0,3.0,High School,Professional,Yes,3.0,0-1 Miles,Europe,51.0,Yes,0.9879665750915751
+22538.0,Single,Female,10000.0,0.0,Partial High School,Manual,Yes,2.0,1-2 Miles,Europe,33.0,No,0.03956946422600447
+12332.0,Married,Male,90000.0,4.0,High School,Management,Yes,3.0,5-10 Miles,Europe,58.0,Yes,0.9430274958959167
+17230.0,Married,Male,80000.0,0.0,Bachelors,Professional,Yes,3.0,10+ Miles,Pacific,30.0,No,0.27165624852873305
+13082.0,Single,Male,130000.0,0.0,Graduate Degree,Management,Yes,0.0,2-5 Miles,Pacific,48.0,Yes,0.976390331890332
+22518.0,Single,Female,30000.0,3.0,Partial College,Clerical,No,2.0,0-1 Miles,Europe,27.0,Yes,0.01533927183927184
+13687.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,Europe,33.0,Yes,0.9928809523809525
+23571.0,Married,Female,40000.0,2.0,Bachelors,Management,Yes,2.0,0-1 Miles,Pacific,66.0,Yes,0.4460201098351253
+19305.0,Single,Female,10000.0,2.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,38.0,Yes,0.9908909978909979
+22636.0,Single,Female,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9988888888888888
+17310.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,0-1 Miles,Pacific,45.0,Yes,0.9889646464646465
+12133.0,Married,Female,130000.0,3.0,Partial College,Professional,Yes,3.0,5-10 Miles,Europe,50.0,Yes,0.993091575091575
+25918.0,Single,Female,30000.0,2.0,Partial College,Clerical,No,2.0,5-10 Miles,Pacific,60.0,Yes,0.9522089299589298
+25752.0,Single,Female,20000.0,2.0,Partial College,Manual,No,1.0,0-1 Miles,Europe,53.0,Yes,0.9962083333333334
+17324.0,Married,Female,100000.0,4.0,Bachelors,Professional,Yes,1.0,10+ Miles,Pacific,46.0,No,0.42692112748362726
+22918.0,Single,Male,80000.0,5.0,Graduate Degree,Management,Yes,3.0,0-1 Miles,Pacific,43.0,No,0.017725288600288602
+12510.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,Europe,43.0,Yes,0.9996666666666667
+25512.0,Single,Male,20000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,30.0,No,0.004637362637362637
+16179.0,Single,Female,80000.0,5.0,Bachelors,Professional,Yes,4.0,1-2 Miles,Pacific,38.0,No,0.013535714285714288
+15628.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,Europe,77.5,No,0.10869116240040151
+20977.0,Married,Male,20000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,64.0,Yes,0.6679839865950967
+18140.0,Married,Male,130000.0,3.0,Partial College,Professional,No,3.0,5-10 Miles,Europe,51.0,Yes,0.9922582417582416
+20417.0,Married,Male,30000.0,3.0,Partial College,Clerical,No,2.0,5-10 Miles,Pacific,56.0,No,0.01062720101535891
+18267.0,Married,Male,60000.0,3.0,Bachelors,Professional,Yes,2.0,5-10 Miles,Pacific,43.0,No,0.01919334097275274
+13620.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,3.0,10+ Miles,Pacific,30.0,Yes,0.2871103707953553
+22974.0,Married,Female,30000.0,2.0,Partial College,Clerical,Yes,2.0,5-10 Miles,Pacific,69.0,No,0.023862103174603175
+13586.0,Married,Male,80000.0,4.0,Partial College,Professional,Yes,2.0,10+ Miles,Europe,53.0,No,0.006659090909090909
+17978.0,Married,Male,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9996153846153847
+12581.0,Single,Female,10000.0,0.0,Partial College,Manual,No,1.0,0-1 Miles,Pacific,28.0,Yes,0.985317044067044
+18018.0,Single,Male,30000.0,3.0,Partial College,Clerical,Yes,0.0,0-1 Miles,Europe,43.0,No,0.006396520146520146
+28957.0,Single,Female,120000.0,2.0,Partial High School,Professional,Yes,4.0,10+ Miles,Pacific,34.0,Yes,0.9778769220545537
+13690.0,Single,Female,20000.0,0.0,Partial High School,Manual,No,2.0,1-2 Miles,Europe,34.0,Yes,0.9779038392163392
+12568.0,Married,Female,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,64.0,No,0.025481684981684984
+13122.0,Married,Female,80000.0,0.0,Bachelors,Professional,Yes,1.0,1-2 Miles,Pacific,41.0,Yes,0.998
+21184.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,1.0,5-10 Miles,Pacific,38.0,No,0.11486311401017278
+26150.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,0-1 Miles,Pacific,41.0,Yes,0.9966428571428572
+24151.0,Single,Male,20000.0,1.0,Bachelors,Clerical,No,0.0,0-1 Miles,Europe,51.0,No,0.0729700501792893
+23962.0,Married,Female,10000.0,0.0,Partial High School,Manual,Yes,2.0,1-2 Miles,Europe,32.0,No,0.02402527230681256
+17793.0,Married,Female,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9993212669683258
+14926.0,Married,Male,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9997058823529411
+16163.0,Single,Male,60000.0,2.0,Bachelors,Professional,Yes,1.0,2-5 Miles,Pacific,38.0,Yes,0.9926507936507938
+21365.0,Married,Female,10000.0,2.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,Pacific,58.0,No,0.013259615384615384
+27771.0,Single,Male,30000.0,1.0,Bachelors,Clerical,Yes,1.0,1-2 Miles,Europe,39.0,Yes,0.6415624653124652
+26167.0,Single,Female,40000.0,2.0,Bachelors,Management,No,1.0,5-10 Miles,Pacific,53.0,Yes,0.9817044540426894
+25792.0,Single,Female,110000.0,3.0,Bachelors,Management,Yes,4.0,10+ Miles,Europe,53.0,No,0.01584768740031898
+11555.0,Married,Female,40000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,77.5,No,0.06109676434676434
+22381.0,Married,Male,10000.0,1.0,Graduate Degree,Manual,Yes,0.0,0-1 Miles,Europe,44.0,No,0.010920634920634921
+17882.0,Married,Male,20000.0,1.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,44.0,No,0.011386002886002887
+22174.0,Married,Male,30000.0,3.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,54.0,Yes,0.9208814900419423
+22439.0,Married,Female,30000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,37.0,Yes,0.9993212669683258
+18012.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,41.0,No,0.07206391464815379
+27582.0,Single,Female,90000.0,2.0,Bachelors,Professional,No,0.0,0-1 Miles,Pacific,36.0,Yes,0.995654761904762
+12744.0,Single,Female,40000.0,2.0,Partial College,Clerical,Yes,0.0,0-1 Miles,Europe,33.0,No,0.180982605026403
+22821.0,Married,Female,130000.0,3.0,Partial College,Professional,Yes,4.0,0-1 Miles,Europe,52.0,No,0.030100482850482856
+20171.0,Married,Female,20000.0,2.0,Partial College,Manual,Yes,1.0,0-1 Miles,Europe,46.0,Yes,1.0
+11116.0,Married,Male,70000.0,5.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,43.0,No,0.02133116883116883
+20053.0,Single,Male,40000.0,2.0,Partial College,Clerical,Yes,0.0,0-1 Miles,Europe,34.0,No,0.03437304362304363
+25266.0,Single,Female,30000.0,2.0,Partial College,Clerical,No,2.0,5-10 Miles,Pacific,67.0,No,0.026305506993006992
+17960.0,Married,Female,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,35.0,Yes,0.998901098901099
+13961.0,Married,Female,80000.0,5.0,Graduate Degree,Management,Yes,3.0,0-1 Miles,Pacific,40.0,No,0.010730339105339106
+11897.0,Single,Male,60000.0,2.0,Bachelors,Professional,No,1.0,0-1 Miles,Pacific,37.0,Yes,0.9990873015873015
+11139.0,Single,Female,30000.0,2.0,Partial College,Clerical,No,2.0,5-10 Miles,Pacific,67.0,No,0.026305506993006992
+11576.0,Married,Male,30000.0,1.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,Europe,41.0,Yes,0.983356227106227
+19255.0,Single,Male,10000.0,2.0,Partial College,Manual,Yes,1.0,0-1 Miles,Europe,51.0,Yes,0.9939103535353536
+18153.0,Married,Female,100000.0,2.0,Bachelors,Management,Yes,4.0,10+ Miles,Europe,59.0,No,0.008778242955874536
+14547.0,Married,Male,10000.0,2.0,Partial College,Manual,Yes,0.0,1-2 Miles,Europe,51.0,No,0.00989285714285714
+24901.0,Single,Male,110000.0,0.0,Partial College,Management,No,3.0,10+ Miles,Pacific,32.0,Yes,0.979102813852814
+27169.0,Single,Male,30000.0,0.0,High School,Manual,Yes,1.0,2-5 Miles,Europe,34.0,Yes,0.9918119658119657
+14805.0,Single,Female,10000.0,3.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,43.0,No,0.00702532372598162
+15822.0,Married,Male,40000.0,2.0,Bachelors,Management,Yes,2.0,0-1 Miles,Pacific,67.0,No,0.3957938818147795
+19389.0,Single,Male,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,28.0,No,0.0016250000000000001
+17048.0,Single,Female,90000.0,1.0,Graduate Degree,Management,Yes,0.0,0-1 Miles,Pacific,36.0,Yes,0.9933506493506495
+22204.0,Married,Male,110000.0,4.0,Bachelors,Management,Yes,3.0,2-5 Miles,Pacific,48.0,No,0.4276790758261347
+12718.0,Single,Female,30000.0,0.0,Partial College,Clerical,Yes,1.0,2-5 Miles,Europe,31.0,No,0.17774753005235744
+15019.0,Single,Female,30000.0,3.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,55.0,No,0.023998718386876283
+28488.0,Single,Male,20000.0,0.0,Partial College,Manual,Yes,0.0,0-1 Miles,Pacific,28.0,Yes,0.9767341408591409
+21891.0,Married,Female,110000.0,0.0,High School,Management,Yes,3.0,10+ Miles,Pacific,34.0,Yes,0.9677733516483517
+27814.0,Single,Female,30000.0,3.0,Partial College,Clerical,No,1.0,0-1 Miles,Europe,26.0,No,0.009648164335664337
+22175.0,Married,Female,30000.0,3.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,53.0,Yes,0.9828320568320568
+29447.0,Single,Female,10000.0,2.0,Bachelors,Clerical,No,1.0,2-5 Miles,Europe,68.0,No,0.03395742451992451
+19784.0,Married,Female,80000.0,2.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,50.0,Yes,1.0
+27824.0,Single,Female,30000.0,3.0,Partial College,Clerical,Yes,2.0,0-1 Miles,Europe,28.0,Yes,0.8693175435675434
+24093.0,Single,Female,80000.0,0.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,Europe,40.0,Yes,0.9881825396825399
+19618.0,Married,Male,70000.0,5.0,Partial College,Skilled Manual,Yes,2.0,0-1 Miles,Pacific,44.0,No,0.0219978354978355
+21561.0,Single,Male,90000.0,0.0,Bachelors,Professional,No,3.0,10+ Miles,Pacific,34.0,Yes,0.9808632756132757
+11061.0,Married,Male,60000.0,2.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,52.0,Yes,0.9969583333333334
+26651.0,Single,Male,80000.0,4.0,Graduate Degree,Management,Yes,0.0,0-1 Miles,Pacific,36.0,Yes,0.9738863636363636
+21108.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,Europe,43.0,Yes,0.9995
+12731.0,Single,Male,30000.0,0.0,High School,Manual,No,1.0,1-2 Miles,Europe,32.0,No,0.008991758241758243
+25307.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,1-2 Miles,Europe,32.0,Yes,0.9882261904761904
+14278.0,Married,Female,130000.0,0.0,Graduate Degree,Management,Yes,1.0,10+ Miles,Pacific,48.0,No,0.04467032967032966
+20711.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,1-2 Miles,Europe,32.0,Yes,0.9920212842712843
+11383.0,Married,Female,30000.0,3.0,Graduate Degree,Clerical,Yes,1.0,0-1 Miles,Europe,46.0,No,0.00713095238095238
+12497.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,42.0,No,0.25540382024908875
+16559.0,Single,Female,10000.0,2.0,High School,Manual,Yes,0.0,0-1 Miles,Europe,36.0,Yes,0.9886687756687756
+11585.0,Married,Female,40000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,Europe,41.0,No,0.07206391464815379
+20277.0,Married,Female,30000.0,2.0,Partial College,Clerical,No,2.0,0-1 Miles,Pacific,69.0,No,0.02289384920634921
+26765.0,Single,Female,70000.0,5.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,Pacific,45.0,No,0.025785533910533908
+12389.0,Single,Male,30000.0,0.0,High School,Manual,No,1.0,2-5 Miles,Europe,34.0,No,0.027883033633033634
+13585.0,Married,Female,80000.0,4.0,Partial College,Professional,No,1.0,2-5 Miles,Europe,53.0,Yes,0.7417777777777776
+26385.0,Single,Male,120000.0,3.0,High School,Professional,No,4.0,5-10 Miles,Europe,50.0,No,0.032709706959706965
+12236.0,Married,Female,20000.0,1.0,Partial College,Manual,Yes,0.0,0-1 Miles,Europe,65.0,No,0.0340215478965479
+21560.0,Married,Male,120000.0,0.0,Partial High School,Professional,Yes,4.0,10+ Miles,Pacific,32.0,Yes,0.9771310706837022
+21554.0,Single,Female,80000.0,0.0,Bachelors,Professional,No,3.0,10+ Miles,Pacific,33.0,No,0.019899891774891775
+13662.0,Single,Male,20000.0,0.0,Partial High School,Manual,Yes,2.0,1-2 Miles,Europe,31.0,Yes,0.9711002677877676
+13089.0,Married,Female,120000.0,1.0,Bachelors,Management,Yes,2.0,0-1 Miles,Pacific,46.0,Yes,0.9885346320346322
+14791.0,Married,Female,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,39.0,Yes,0.9977657114127703
+19331.0,Single,Male,20000.0,2.0,High School,Manual,Yes,1.0,0-1 Miles,Europe,40.0,No,0.012156302031302031
+17754.0,Single,Female,30000.0,3.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,46.0,Yes,0.9996666666666667
+11149.0,Married,Male,40000.0,2.0,Bachelors,Management,Yes,2.0,0-1 Miles,Pacific,65.0,No,0.5232579916428599
+16549.0,Single,Female,30000.0,3.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,47.0,Yes,0.9996666666666667
+24305.0,Single,Male,100000.0,1.0,Bachelors,Management,No,3.0,0-1 Miles,Pacific,46.0,Yes,0.9840169552669553
+18253.0,Married,Female,80000.0,5.0,Graduate Degree,Management,Yes,3.0,0-1 Miles,Pacific,40.0,No,0.010730339105339106
+20147.0,Married,Female,30000.0,1.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,65.0,No,0.024856684981684984
+15612.0,Single,Male,30000.0,0.0,High School,Manual,No,1.0,1-2 Miles,Europe,28.0,No,0.0025
+28323.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,2.0,5-10 Miles,Pacific,43.0,Yes,0.9919485294117645
+22634.0,Single,Female,40000.0,0.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,38.0,Yes,0.9988888888888888
+15665.0,Married,Female,30000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,47.0,Yes,0.995059829059829
+27585.0,Married,Female,90000.0,2.0,Bachelors,Professional,No,0.0,0-1 Miles,Pacific,36.0,Yes,0.9967261904761905
+19748.0,Married,Male,20000.0,4.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,60.0,No,0.005150793650793651
+21974.0,Single,Female,70000.0,0.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,42.0,Yes,0.9845280748663101
+14032.0,Married,Male,70000.0,2.0,High School,Skilled Manual,No,2.0,1-2 Miles,Pacific,50.0,Yes,0.9969940476190478
+22610.0,Married,Male,30000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,35.0,Yes,0.997453135100194
+26984.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,Europe,32.0,Yes,0.9958571428571429
+18294.0,Married,Female,90000.0,1.0,Bachelors,Professional,Yes,1.0,5-10 Miles,Pacific,46.0,No,0.07831242327933503
+28564.0,Single,Female,40000.0,2.0,Partial College,Clerical,Yes,0.0,1-2 Miles,Europe,33.0,Yes,0.9854761904761904
+28521.0,Single,Male,40000.0,0.0,Graduate Degree,Clerical,No,0.0,0-1 Miles,Europe,36.0,Yes,1.0
+15450.0,Married,Male,10000.0,1.0,Graduate Degree,Clerical,Yes,0.0,0-1 Miles,Europe,70.0,No,0.07388608613608613
+25681.0,Single,Female,30000.0,0.0,Partial College,Clerical,No,1.0,2-5 Miles,Europe,31.0,Yes,0.9794889416139416
+19491.0,Single,Male,30000.0,2.0,Partial College,Clerical,Yes,2.0,0-1 Miles,Europe,42.0,No,0.0019230769230769232
+26415.0,Married,Female,90000.0,4.0,Partial High School,Skilled Manual,Yes,4.0,10+ Miles,Europe,58.0,No,0.018802815605447182
+12821.0,Married,Male,40000.0,0.0,Bachelors,Clerical,Yes,0.0,0-1 Miles,Europe,39.0,No,0.47854798918401853
+15629.0,Single,Female,10000.0,0.0,Partial High School,Manual,Yes,2.0,1-2 Miles,Europe,34.0,No,0.033393182174722424
+27835.0,Married,Male,20000.0,0.0,Partial High School,Manual,Yes,2.0,0-1 Miles,Europe,32.0,No,0.016470271751811996
+11738.0,Married,Male,60000.0,4.0,Bachelors,Professional,Yes,0.0,2-5 Miles,North America,46.0,No,0.9575698051948054
+25065.0,Married,Male,70000.0,2.0,Partial High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,48.0,No,0.00426923076923077
+26238.0,Single,Female,40000.0,3.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,31.0,Yes,0.986950937950938
+23707.0,Single,Male,70000.0,5.0,Bachelors,Management,Yes,3.0,10+ Miles,North America,60.0,Yes,0.9621963200198494
+27650.0,Married,Male,70000.0,4.0,High School,Professional,Yes,0.0,5-10 Miles,North America,51.0,No,0.4429825864924548
+24981.0,Married,Male,60000.0,2.0,Partial College,Professional,Yes,2.0,10+ Miles,North America,56.0,No,0.016459544110859897
+20678.0,Single,Female,60000.0,3.0,Bachelors,Skilled Manual,Yes,1.0,2-5 Miles,North America,40.0,Yes,0.9874659090909091
+15302.0,Single,Female,70000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,34.0,Yes,0.997952380952381
+26012.0,Married,Male,80000.0,1.0,Partial College,Skilled Manual,Yes,1.0,2-5 Miles,North America,48.0,Yes,0.9897175324675324
+26575.0,Single,Female,40000.0,0.0,High School,Skilled Manual,No,2.0,1-2 Miles,North America,31.0,Yes,0.9909583333333333
+15559.0,Married,Male,60000.0,5.0,Bachelors,Professional,Yes,1.0,2-5 Miles,North America,47.0,No,0.01463070263070263
+19235.0,Married,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,34.0,No,0.3057258321743616
+15275.0,Married,Male,40000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,29.0,No,0.002369209222150399
+20339.0,Married,Female,130000.0,1.0,Bachelors,Management,Yes,4.0,2-5 Miles,North America,44.0,Yes,0.987793498168498
+25405.0,Married,Male,70000.0,2.0,Bachelors,Skilled Manual,Yes,1.0,2-5 Miles,North America,38.0,Yes,0.9838488455988457
+15940.0,Married,Male,100000.0,4.0,Partial College,Professional,Yes,4.0,0-1 Miles,North America,40.0,No,0.013663586413586414
+25074.0,Married,Female,70000.0,4.0,Bachelors,Professional,Yes,2.0,2-5 Miles,North America,42.0,Yes,0.9897759185259187
+24738.0,Married,Female,40000.0,1.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,51.0,Yes,0.9954999999999999
+16337.0,Married,Male,60000.0,0.0,Partial College,Skilled Manual,No,2.0,1-2 Miles,North America,29.0,No,0.004872039724980901
+24357.0,Married,Male,60000.0,3.0,Bachelors,Professional,Yes,1.0,2-5 Miles,North America,48.0,Yes,0.9964718614718615
+18613.0,Single,Male,70000.0,0.0,Bachelors,Professional,No,1.0,2-5 Miles,North America,37.0,Yes,0.9981666666666668
+12207.0,Single,Male,80000.0,4.0,Bachelors,Management,Yes,1.0,5-10 Miles,North America,66.0,Yes,0.7502549395049397
+18052.0,Married,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,0-1 Miles,North America,45.0,Yes,0.9950555555555556
+13353.0,Single,Female,60000.0,4.0,Graduate Degree,Management,Yes,2.0,10+ Miles,North America,61.0,Yes,0.0340279304029304
+19399.0,Single,Male,40000.0,0.0,Bachelors,Professional,No,1.0,2-5 Miles,North America,45.0,No,0.4790705324087676
+16154.0,Married,Female,70000.0,5.0,Bachelors,Professional,Yes,2.0,2-5 Miles,North America,47.0,No,0.01082142857142857
+22219.0,Married,Female,60000.0,2.0,High School,Professional,Yes,2.0,5-10 Miles,North America,49.0,No,0.0
+17269.0,Single,Male,60000.0,3.0,Bachelors,Professional,No,0.0,0-1 Miles,North America,47.0,Yes,0.9976780303030304
+23586.0,Married,Female,80000.0,0.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,34.0,Yes,0.9925297619047619
+15740.0,Married,Male,80000.0,5.0,Bachelors,Management,Yes,2.0,1-2 Miles,North America,64.0,No,0.03272812155165097
+27638.0,Single,Male,100000.0,1.0,Partial College,Professional,No,3.0,1-2 Miles,North America,44.0,No,0.14530847134891248
+18976.0,Single,Male,40000.0,4.0,High School,Professional,Yes,2.0,10+ Miles,North America,62.0,Yes,0.662868203663718
+19413.0,Single,Male,60000.0,3.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,47.0,Yes,0.9983030303030305
+13283.0,Married,Male,80000.0,3.0,Partial College,Professional,No,2.0,0-1 Miles,North America,49.0,Yes,0.9972954545454544
+17471.0,Single,Female,80000.0,4.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,67.0,No,0.02450839438339438
+16791.0,Single,Male,60000.0,5.0,Bachelors,Management,Yes,3.0,10+ Miles,North America,59.0,Yes,0.9605296533531827
+15382.0,Married,Female,110000.0,1.0,Bachelors,Management,Yes,2.0,1-2 Miles,North America,44.0,No,0.3844861527361527
+11641.0,Married,Male,50000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,North America,36.0,No,0.5032537613530262
+11935.0,Single,Female,30000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,28.0,No,0.0028237546766958534
+13233.0,Married,Male,60000.0,2.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,57.0,Yes,0.24212105560847827
+25909.0,Married,Male,60000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,27.0,Yes,0.8269909877703996
+14092.0,Single,Male,30000.0,0.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,North America,28.0,No,0.0047625332184155714
+29143.0,Single,Female,60000.0,1.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,44.0,Yes,0.9963863636363637
+24941.0,Married,Male,60000.0,3.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,66.0,No,0.003926282051282051
+24637.0,Married,Male,40000.0,4.0,High School,Professional,Yes,2.0,10+ Miles,North America,64.0,No,0.3220936659659571
+23893.0,Married,Male,50000.0,3.0,Bachelors,Skilled Manual,Yes,3.0,10+ Miles,North America,41.0,No,0.00275
+13907.0,Single,Female,80000.0,3.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,North America,41.0,Yes,0.5558372758777168
+14900.0,Married,Female,40000.0,1.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,49.0,Yes,0.9938766233766233
+11262.0,Married,Female,80000.0,4.0,Bachelors,Management,Yes,0.0,0-1 Miles,North America,42.0,No,0.012902583527583526
+22294.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,2-5 Miles,North America,37.0,Yes,0.9973333333333333
+12195.0,Single,Female,70000.0,3.0,Graduate Degree,Management,Yes,2.0,1-2 Miles,North America,52.0,No,0.014075091575091575
+25375.0,Married,Male,50000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,34.0,No,0.2901565530058177
+11143.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,29.0,No,0.585770531347737
+25898.0,Married,Female,70000.0,2.0,High School,Professional,Yes,2.0,2-5 Miles,North America,53.0,No,0.5566880068031385
+24397.0,Single,Male,120000.0,2.0,Bachelors,Management,No,4.0,1-2 Miles,North America,40.0,No,0.18131562391856504
+19758.0,Single,Male,60000.0,0.0,Partial College,Skilled Manual,No,2.0,1-2 Miles,North America,29.0,No,0.004872039724980901
+15529.0,Married,Male,60000.0,4.0,Bachelors,Professional,Yes,2.0,2-5 Miles,North America,43.0,Yes,0.9956272893772895
+19884.0,Married,Male,60000.0,2.0,High School,Professional,Yes,2.0,2-5 Miles,North America,55.0,Yes,0.9687671261487051
+18674.0,Single,Female,80000.0,4.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,48.0,No,0.015602203352203352
+13453.0,Married,Female,130000.0,2.0,Bachelors,Management,Yes,3.0,0-1 Miles,North America,45.0,Yes,0.9239953518703519
+14063.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,0-1 Miles,Pacific,42.0,Yes,0.9934042207792207
+27393.0,Married,Female,50000.0,4.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,63.0,No,0.007886294261294263
+14417.0,Single,Male,60000.0,3.0,High School,Professional,Yes,2.0,10+ Miles,North America,54.0,Yes,0.979345238095238
+17533.0,Married,Male,40000.0,3.0,Partial College,Professional,No,2.0,5-10 Miles,North America,73.0,Yes,0.9571758295883684
+18580.0,Married,Female,60000.0,2.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,43.0,Yes,0.9962905844155846
+17025.0,Single,Male,50000.0,0.0,Partial College,Skilled Manual,No,1.0,2-5 Miles,North America,39.0,Yes,0.9899698773448773
+25293.0,Married,Male,80000.0,4.0,Bachelors,Management,Yes,0.0,1-2 Miles,North America,42.0,No,0.012208139083139082
+24725.0,Married,Female,40000.0,3.0,Partial College,Clerical,Yes,0.0,1-2 Miles,North America,31.0,No,0.172765295162354
+23200.0,Married,Female,50000.0,3.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,North America,41.0,No,0.0006666666666666666
+15895.0,Single,Female,60000.0,2.0,Bachelors,Management,Yes,0.0,10+ Miles,North America,58.0,No,0.04084118147933937
+18577.0,Married,Female,60000.0,0.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,40.0,No,0.01342890442890443
+27218.0,Married,Female,20000.0,2.0,Partial High School,Clerical,No,1.0,0-1 Miles,North America,48.0,No,0.008346736596736596
+18560.0,Married,Female,70000.0,2.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,34.0,Yes,0.9965238095238095
+25006.0,Single,Female,30000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,28.0,No,0.0028237546766958534
+17369.0,Single,Male,30000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,27.0,No,0.010157254510195689
+14495.0,Married,Male,40000.0,3.0,Partial College,Professional,No,2.0,5-10 Miles,North America,54.0,Yes,0.9818281119465331
+18847.0,Married,Female,60000.0,2.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,70.0,No,0.033866452991452994
+14754.0,Married,Male,40000.0,1.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,48.0,Yes,0.9976861471861471
+23378.0,Married,Male,70000.0,1.0,Partial College,Skilled Manual,Yes,1.0,2-5 Miles,North America,44.0,Yes,0.9872873376623378
+26452.0,Single,Male,50000.0,3.0,Graduate Degree,Management,Yes,2.0,10+ Miles,North America,69.0,No,0.04014033882783883
+20370.0,Married,Male,70000.0,3.0,Partial High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,52.0,No,0.4706934821284668
+20528.0,Married,Male,40000.0,2.0,Partial High School,Skilled Manual,Yes,2.0,2-5 Miles,North America,55.0,No,0.01457179808495598
+23549.0,Single,Male,30000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,30.0,No,0.0011858974358974358
+21751.0,Married,Male,60000.0,3.0,Graduate Degree,Management,Yes,2.0,1-2 Miles,North America,63.0,No,0.011932234432234432
+21266.0,Single,Female,80000.0,0.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,34.0,Yes,0.9935138888888889
+13388.0,Single,Male,60000.0,2.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,56.0,No,0.027929726706042497
+18752.0,Single,Female,40000.0,0.0,High School,Skilled Manual,Yes,1.0,5-10 Miles,North America,31.0,No,0.004852869352869353
+16917.0,Married,Male,120000.0,1.0,Bachelors,Management,Yes,4.0,0-1 Miles,North America,38.0,No,0.00822924297924298
+15313.0,Married,Male,60000.0,4.0,Bachelors,Management,Yes,2.0,2-5 Miles,North America,59.0,No,0.00525534188034188
+25329.0,Single,Female,40000.0,3.0,Partial College,Clerical,No,2.0,0-1 Miles,North America,32.0,No,0.017097735597735596
+20380.0,Married,Female,60000.0,3.0,Graduate Degree,Management,Yes,2.0,10+ Miles,North America,69.0,No,0.02702319902319902
+23089.0,Married,Male,40000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,28.0,No,0.002369209222150399
+13749.0,Married,Male,80000.0,4.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,47.0,No,0.011487789987789987
+24943.0,Married,Male,60000.0,3.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,66.0,No,0.003926282051282051
+28667.0,Single,Male,70000.0,2.0,Bachelors,Skilled Manual,No,1.0,0-1 Miles,North America,37.0,Yes,0.9895773809523811
+15194.0,Single,Male,120000.0,2.0,Bachelors,Management,No,3.0,0-1 Miles,North America,39.0,Yes,0.9838209151959151
+17436.0,Married,Male,60000.0,2.0,High School,Professional,No,2.0,1-2 Miles,North America,51.0,No,0.006111111111111111
+18935.0,Married,Female,130000.0,0.0,Graduate Degree,Management,Yes,3.0,1-2 Miles,North America,40.0,No,0.40897687728937726
+16871.0,Married,Female,90000.0,2.0,High School,Professional,Yes,1.0,10+ Miles,North America,51.0,Yes,0.9702541486291486
+12100.0,Single,Male,60000.0,2.0,Bachelors,Management,Yes,0.0,10+ Miles,North America,57.0,No,0.04139673703489492
+23158.0,Married,Female,60000.0,1.0,Graduate Degree,Professional,No,0.0,0-1 Miles,North America,35.0,Yes,0.8040645269762919
+18545.0,Married,Male,40000.0,4.0,High School,Professional,No,2.0,10+ Miles,North America,61.0,Yes,0.9635362787796998
+18391.0,Single,Female,80000.0,5.0,Partial College,Professional,Yes,2.0,5-10 Miles,North America,44.0,No,0.009625485625485626
+19812.0,Single,Female,70000.0,2.0,Partial College,Professional,Yes,0.0,5-10 Miles,North America,49.0,Yes,0.9901518481518481
+27660.0,Married,Male,80000.0,4.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,70.0,No,0.030184218559218556
+18058.0,Single,Female,20000.0,3.0,High School,Skilled Manual,Yes,2.0,2-5 Miles,North America,77.5,No,0.29996215696703654
+20343.0,Married,Female,90000.0,4.0,Partial College,Professional,Yes,1.0,1-2 Miles,North America,45.0,No,0.16668399202706483
+28997.0,Single,Male,40000.0,2.0,High School,Professional,No,1.0,2-5 Miles,North America,58.0,Yes,0.9547889749139749
+24398.0,Married,Male,130000.0,1.0,Graduate Degree,Management,Yes,4.0,0-1 Miles,North America,41.0,No,0.013534493284493288
+19002.0,Married,Female,60000.0,2.0,Partial College,Professional,Yes,1.0,2-5 Miles,North America,57.0,Yes,0.6924502429694409
+28609.0,Married,Male,30000.0,2.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,49.0,No,0.002577922077922078
+29231.0,Single,Male,80000.0,4.0,Partial College,Professional,No,2.0,0-1 Miles,North America,43.0,No,0.6892922600275543
+18858.0,Single,Male,60000.0,2.0,Partial High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,52.0,Yes,0.9730254120879119
+20000.0,Married,Male,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,35.0,Yes,0.5548061142289085
+25261.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,27.0,No,0.011852564102564104
+17458.0,Single,Male,70000.0,3.0,High School,Professional,Yes,0.0,5-10 Miles,North America,52.0,Yes,0.9832789489921844
+11644.0,Single,Male,40000.0,2.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,36.0,No,0.23354619889914005
+16145.0,Single,Female,70000.0,5.0,Graduate Degree,Professional,Yes,3.0,10+ Miles,North America,46.0,Yes,0.9596629481629484
+16890.0,Married,Male,60000.0,3.0,Partial High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,52.0,Yes,0.9639777930402932
+25983.0,Married,Male,70000.0,0.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,43.0,No,0.009944444444444443
+14633.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,2-5 Miles,North America,44.0,No,0.11260674048174044
+22994.0,Married,Female,80000.0,0.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,34.0,Yes,0.9925297619047619
+22983.0,Single,Female,30000.0,0.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,North America,27.0,No,0.0058837453396276915
+25184.0,Single,Male,110000.0,1.0,Partial College,Professional,Yes,4.0,5-10 Miles,North America,45.0,Yes,0.5891601649984001
+14469.0,Married,Female,100000.0,3.0,Partial College,Professional,Yes,4.0,1-2 Miles,North America,45.0,No,0.018375513375513373
+11538.0,Single,Female,60000.0,4.0,Graduate Degree,Skilled Manual,No,1.0,0-1 Miles,North America,47.0,Yes,0.9633991702741704
+16245.0,Single,Female,80000.0,4.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,47.0,No,0.010773143523143522
+17858.0,Married,Male,40000.0,4.0,High School,Skilled Manual,Yes,2.0,2-5 Miles,North America,44.0,Yes,0.41674202904079094
+25347.0,Single,Female,20000.0,3.0,Partial High School,Clerical,No,2.0,0-1 Miles,North America,49.0,No,0.0025294566544566545
+15814.0,Single,Female,40000.0,0.0,High School,Skilled Manual,Yes,1.0,5-10 Miles,North America,30.0,No,0.004614774114774114
+11259.0,Married,Female,100000.0,4.0,Partial College,Professional,Yes,4.0,2-5 Miles,North America,41.0,Yes,0.9723255355755356
+11200.0,Married,Male,70000.0,4.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,58.0,No,0.005995171495171494
+25101.0,Married,Male,60000.0,5.0,Bachelors,Professional,Yes,1.0,2-5 Miles,North America,47.0,No,0.01463070263070263
+21801.0,Married,Female,70000.0,4.0,Partial College,Professional,Yes,1.0,1-2 Miles,North America,55.0,No,0.01255957930957931
+25943.0,Single,Female,70000.0,0.0,Partial College,Skilled Manual,No,2.0,0-1 Miles,North America,27.0,Yes,0.9932311805841217
+22127.0,Married,Male,60000.0,3.0,Graduate Degree,Management,Yes,2.0,1-2 Miles,North America,67.0,No,0.018675976800976803
+20414.0,Married,Female,60000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,29.0,No,0.0015441176470588236
+23672.0,Married,Female,60000.0,3.0,Graduate Degree,Management,Yes,2.0,1-2 Miles,North America,67.0,No,0.0241759768009768
+29255.0,Single,Male,80000.0,3.0,Partial College,Professional,No,1.0,1-2 Miles,North America,51.0,Yes,0.9966780303030304
+28815.0,Married,Female,50000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,35.0,No,0.03316894216894217
+27753.0,Married,Male,40000.0,0.0,High School,Skilled Manual,No,2.0,1-2 Miles,North America,30.0,No,0.003697802197802198
+27643.0,Single,Male,70000.0,5.0,Partial College,Professional,Yes,3.0,2-5 Miles,North America,44.0,No,0.4802537098909003
+13754.0,Single,Female,80000.0,4.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,48.0,No,0.010773143523143522
+22088.0,Married,Female,130000.0,1.0,Bachelors,Management,Yes,2.0,0-1 Miles,North America,45.0,Yes,0.986494796869797
+27388.0,Married,Male,60000.0,3.0,Bachelors,Management,No,2.0,1-2 Miles,North America,66.0,No,0.003598901098901099
+24745.0,Single,Female,30000.0,2.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,49.0,No,0.0844503939687763
+29237.0,Single,Female,120000.0,4.0,Partial College,Professional,Yes,3.0,5-10 Miles,North America,43.0,Yes,0.7591837851690789
+15272.0,Single,Male,40000.0,0.0,High School,Skilled Manual,No,2.0,1-2 Miles,North America,30.0,No,0.0029835164835164837
+18949.0,Single,Male,70000.0,2.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,74.0,Yes,0.9454994050067578
+14507.0,Married,Male,100000.0,2.0,Graduate Degree,Management,Yes,3.0,1-2 Miles,North America,65.0,No,0.009122710622710622
+25886.0,Married,Female,60000.0,2.0,Partial College,Professional,Yes,2.0,2-5 Miles,North America,56.0,Yes,0.961100306856886
+21441.0,Married,Male,50000.0,4.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,64.0,No,0.008066849816849818
+21741.0,Married,Female,70000.0,3.0,Partial College,Professional,Yes,2.0,5-10 Miles,North America,50.0,Yes,0.9979621212121212
+14572.0,Married,Female,70000.0,3.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,35.0,Yes,0.9958095238095238
+23368.0,Married,Female,60000.0,5.0,Bachelors,Skilled Manual,Yes,3.0,10+ Miles,North America,41.0,No,0.0107162167897462
+16217.0,Single,Female,60000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,39.0,No,0.025443570318570318
+16247.0,Single,Female,60000.0,4.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,47.0,No,0.01823778998778999
+22010.0,Single,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,31.0,No,0.002435897435897436
+25872.0,Single,Female,70000.0,2.0,Bachelors,Management,No,1.0,2-5 Miles,North America,58.0,Yes,0.9314945054945052
+19164.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,2-5 Miles,North America,38.0,Yes,0.9969761904761906
+18435.0,Single,Female,70000.0,5.0,Graduate Degree,Management,Yes,2.0,10+ Miles,North America,67.0,Yes,0.4171935641972408
+14284.0,Single,Male,60000.0,0.0,Partial College,Professional,No,2.0,1-2 Miles,North America,32.0,Yes,0.9900631313131314
+11287.0,Married,Male,70000.0,5.0,Partial College,Professional,No,3.0,5-10 Miles,North America,45.0,No,0.07887120722414838
+13066.0,Single,Male,30000.0,0.0,High School,Skilled Manual,No,2.0,1-2 Miles,North America,31.0,Yes,0.9768059163059165
+29106.0,Single,Male,40000.0,0.0,High School,Skilled Manual,No,2.0,1-2 Miles,North America,31.0,Yes,0.9883730158730158
+26236.0,Married,Female,40000.0,3.0,Partial College,Clerical,Yes,1.0,0-1 Miles,North America,31.0,No,0.007183441558441558
+17531.0,Married,Male,60000.0,2.0,High School,Professional,No,2.0,5-10 Miles,North America,50.0,No,0.004464285714285714
+12964.0,Married,Male,70000.0,1.0,Partial College,Skilled Manual,Yes,1.0,0-1 Miles,North America,44.0,No,0.006858585858585858
+19133.0,Single,Male,50000.0,2.0,Bachelors,Skilled Manual,Yes,1.0,2-5 Miles,North America,38.0,Yes,0.9781365440115443
+24643.0,Single,Female,60000.0,4.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,63.0,No,0.029055708180708174
+21599.0,Married,Female,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,36.0,Yes,0.9903585858585859
+22976.0,Single,Male,40000.0,0.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,28.0,Yes,0.9940941697191696
+27637.0,Single,Female,100000.0,1.0,Partial College,Professional,No,3.0,1-2 Miles,North America,44.0,No,0.23984814695108825
+11890.0,Married,Female,70000.0,5.0,Graduate Degree,Professional,Yes,1.0,0-1 Miles,North America,47.0,No,0.008214035964035964
+28580.0,Married,Female,80000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,40.0,Yes,0.6139583333333334
+14443.0,Married,Male,130000.0,1.0,Graduate Degree,Management,Yes,4.0,0-1 Miles,North America,40.0,No,0.013534493284493288
+17864.0,Married,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,2-5 Miles,North America,46.0,Yes,0.9908885281385281
+20505.0,Married,Female,40000.0,5.0,High School,Professional,No,2.0,10+ Miles,North America,61.0,No,0.08245559505853621
+14592.0,Married,Female,60000.0,0.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,40.0,No,0.01342890442890443
+22227.0,Married,Female,60000.0,2.0,High School,Professional,Yes,2.0,5-10 Miles,North America,50.0,No,0.0
+21471.0,Married,Male,70000.0,2.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,59.0,No,0.049989685752843654
+22252.0,Single,Female,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,36.0,Yes,0.9956363636363637
+21260.0,Single,Female,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,30.0,No,0.0
+11817.0,Single,Female,70000.0,4.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,35.0,Yes,0.9925995115995118
+19223.0,Married,Female,30000.0,2.0,High School,Skilled Manual,Yes,2.0,1-2 Miles,North America,48.0,No,0.0014090909090909093
+18517.0,Married,Male,100000.0,3.0,Bachelors,Management,Yes,4.0,0-1 Miles,North America,41.0,No,0.003862179487179487
+21717.0,Married,Male,40000.0,2.0,Partial College,Clerical,Yes,1.0,0-1 Miles,North America,47.0,No,0.0033414502164502164
+13760.0,Married,Male,60000.0,4.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,47.0,No,0.12815390573478802
+18145.0,Married,Male,80000.0,5.0,Bachelors,Management,No,2.0,2-5 Miles,Europe,62.0,No,0.03301280663780663
+21770.0,Married,Male,60000.0,4.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,60.0,No,0.0019358974358974358
+11165.0,Married,Female,60000.0,0.0,Partial College,Skilled Manual,No,1.0,1-2 Miles,North America,33.0,No,0.013853049728049729
+16377.0,Single,Female,80000.0,4.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,47.0,No,0.015602203352203352
+26248.0,Married,Male,20000.0,3.0,Partial High School,Clerical,No,2.0,0-1 Miles,North America,52.0,No,0.008842948717948718
+23461.0,Married,Female,90000.0,5.0,Partial College,Professional,Yes,3.0,2-5 Miles,North America,40.0,No,0.006167582417582418
+29133.0,Single,Female,60000.0,4.0,Bachelors,Skilled Manual,No,2.0,0-1 Miles,North America,42.0,No,0.011497557997557997
+27673.0,Single,Female,60000.0,3.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,53.0,Yes,0.9906985294117647
+12774.0,Married,Female,40000.0,1.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,51.0,Yes,0.9954999999999999
+18910.0,Single,Male,30000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,30.0,No,0.0021393557422969187
+11699.0,Single,Male,60000.0,2.0,Bachelors,Skilled Manual,No,2.0,0-1 Miles,North America,43.0,No,0.003142857142857143
+16725.0,Married,Male,30000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,26.0,No,0.005994429181929182
+28269.0,Single,Female,130000.0,1.0,Bachelors,Management,No,1.0,2-5 Miles,North America,45.0,No,0.14186295730413376
+23144.0,Married,Male,50000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,North America,34.0,Yes,0.9866643356643356
+23376.0,Married,Male,70000.0,1.0,Bachelors,Professional,Yes,1.0,2-5 Miles,North America,44.0,Yes,0.9980952380952383
+25970.0,Single,Female,60000.0,4.0,Bachelors,Skilled Manual,No,2.0,0-1 Miles,North America,41.0,Yes,0.9196397328162034
+28068.0,Single,Female,80000.0,3.0,Graduate Degree,Professional,No,0.0,0-1 Miles,North America,36.0,Yes,1.0
+18390.0,Married,Male,80000.0,5.0,Partial College,Professional,Yes,2.0,0-1 Miles,North America,44.0,No,0.019067765567765568
+29112.0,Single,Male,60000.0,0.0,Partial College,Professional,No,2.0,1-2 Miles,North America,30.0,No,0.013356060606060607
+14090.0,Married,Female,30000.0,0.0,Partial High School,Clerical,No,2.0,0-1 Miles,North America,28.0,No,0.004722545428427781
+27040.0,Married,Male,20000.0,2.0,Partial High School,Clerical,Yes,2.0,1-2 Miles,North America,49.0,No,0.0023674242424242425
+23479.0,Single,Male,90000.0,0.0,Partial College,Professional,No,2.0,0-1 Miles,North America,43.0,Yes,0.9920762987012987
+16795.0,Married,Female,70000.0,4.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,59.0,No,0.007832778332778333
+22014.0,Single,Male,30000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,26.0,No,0.004911095848595848
+13314.0,Married,Male,120000.0,1.0,High School,Professional,Yes,4.0,5-10 Miles,North America,46.0,Yes,0.9915775335775336
+11619.0,Single,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,33.0,No,0.3485897884794944
+29132.0,Single,Female,40000.0,0.0,Bachelors,Professional,Yes,1.0,2-5 Miles,North America,42.0,Yes,0.9941542207792208
+11199.0,Married,Female,70000.0,4.0,Bachelors,Management,Yes,1.0,10+ Miles,North America,59.0,No,0.005541472416472416
+20296.0,Single,Female,60000.0,0.0,Partial College,Skilled Manual,No,1.0,1-2 Miles,North America,33.0,Yes,0.9872460317460319
+17546.0,Married,Female,70000.0,1.0,Partial College,Skilled Manual,Yes,1.0,0-1 Miles,North America,44.0,Yes,0.9972380952380953
+18069.0,Married,Male,70000.0,5.0,Bachelors,Management,Yes,4.0,10+ Miles,North America,60.0,No,0.34922229481904404
+23712.0,Single,Female,70000.0,2.0,Bachelors,Management,Yes,1.0,10+ Miles,North America,59.0,No,0.022101157614315508
+23358.0,Married,Male,60000.0,0.0,High School,Professional,Yes,2.0,5-10 Miles,North America,32.0,Yes,0.9156885475635478
+20518.0,Married,Female,70000.0,2.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,58.0,No,0.03625254789070578
+28026.0,Married,Female,40000.0,2.0,High School,Professional,No,2.0,2-5 Miles,North America,59.0,No,0.022962939837939834
+11669.0,Single,Female,70000.0,2.0,Bachelors,Skilled Manual,Yes,1.0,2-5 Miles,North America,38.0,No,0.7433533525298232
+16020.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,28.0,Yes,0.9834215506715508
+27090.0,Married,Female,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,37.0,Yes,0.9982500000000001
+27198.0,Single,Female,80000.0,0.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,40.0,No,0.3544785251513193
+19661.0,Single,Male,90000.0,4.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,38.0,Yes,0.9811190476190477
+26327.0,Married,Male,70000.0,4.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,36.0,Yes,0.9913228715728717
+26341.0,Married,Female,70000.0,5.0,Graduate Degree,Professional,Yes,2.0,0-1 Miles,North America,37.0,No,0.008450396825396824
+24958.0,Single,Female,40000.0,5.0,High School,Professional,No,3.0,2-5 Miles,North America,60.0,Yes,0.9144030187648606
+13287.0,Single,Male,110000.0,4.0,Bachelors,Management,Yes,4.0,5-10 Miles,North America,42.0,Yes,0.24695440752058406
+14493.0,Single,Female,70000.0,3.0,Graduate Degree,Management,No,2.0,1-2 Miles,North America,53.0,No,0.014908424908424906
+26678.0,Single,Female,80000.0,2.0,Partial High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,49.0,No,0.009527167277167277
+23275.0,Married,Male,30000.0,2.0,High School,Skilled Manual,Yes,2.0,1-2 Miles,North America,49.0,No,0.0027727272727272726
+11270.0,Married,Male,130000.0,2.0,Graduate Degree,Management,Yes,3.0,0-1 Miles,North America,42.0,Yes,0.7145440764301056
+20084.0,Married,Male,20000.0,2.0,High School,Manual,No,2.0,0-1 Miles,North America,53.0,No,0.014478696741854636
+16144.0,Married,Male,70000.0,1.0,Graduate Degree,Professional,Yes,1.0,0-1 Miles,North America,46.0,Yes,0.9972222222222222
+27731.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,27.0,No,0.011852564102564104
+11886.0,Married,Female,60000.0,3.0,Bachelors,Professional,Yes,1.0,0-1 Miles,North America,48.0,Yes,0.9987575757575757
+24324.0,Single,Female,60000.0,4.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,41.0,Yes,0.992773754023754
+22220.0,Married,Male,60000.0,2.0,High School,Professional,No,2.0,1-2 Miles,North America,49.0,Yes,0.9184909118659119
+26625.0,Single,Female,60000.0,0.0,Graduate Degree,Professional,Yes,1.0,2-5 Miles,North America,38.0,Yes,0.9926706349206349
+23027.0,Single,Male,130000.0,1.0,Bachelors,Management,No,4.0,0-1 Miles,North America,44.0,No,0.01594443056943057
+16867.0,Single,Female,130000.0,1.0,Bachelors,Management,No,3.0,0-1 Miles,North America,45.0,Yes,0.6449432838403424
+14514.0,Single,Female,30000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,26.0,No,0.013424299964741142
+19634.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,1.0,5-10 Miles,North America,31.0,No,0.003741758241758242
+18504.0,Married,Male,70000.0,2.0,Partial High School,Skilled Manual,No,2.0,1-2 Miles,North America,49.0,No,0.005903846153846153
+28799.0,Single,Female,40000.0,2.0,Partial College,Clerical,No,1.0,1-2 Miles,North America,47.0,Yes,0.9990000000000001
+11225.0,Married,Female,60000.0,2.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,55.0,No,0.014217119868435657
+17657.0,Married,Male,40000.0,4.0,Partial College,Clerical,No,0.0,0-1 Miles,North America,30.0,No,0.1428389310852546
+14913.0,Married,Female,40000.0,1.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,48.0,Yes,0.999090909090909
+14077.0,Single,Male,30000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,30.0,No,0.0011858974358974358
+13296.0,Married,Male,110000.0,1.0,Bachelors,Management,Yes,3.0,5-10 Miles,North America,45.0,No,0.00413095238095238
+20535.0,Married,Female,70000.0,4.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,56.0,No,0.010282162282162282
+12452.0,Married,Male,60000.0,4.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,47.0,Yes,0.9524265873015877
+28043.0,Married,Female,60000.0,2.0,Bachelors,Management,Yes,0.0,10+ Miles,North America,56.0,No,0.017460445986761778
+12957.0,Single,Female,70000.0,1.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,44.0,No,0.165482483976292
+15412.0,Married,Male,130000.0,2.0,Graduate Degree,Management,Yes,3.0,2-5 Miles,North America,69.0,No,0.02280448717948718
+20514.0,Married,Female,70000.0,2.0,Partial College,Professional,Yes,1.0,2-5 Miles,North America,59.0,No,0.43608634332419494
+20758.0,Married,Male,30000.0,2.0,High School,Skilled Manual,Yes,2.0,1-2 Miles,North America,50.0,No,0.0027727272727272726
+11801.0,Married,Male,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,36.0,No,0.2892743094323979
+22211.0,Married,Male,60000.0,0.0,Partial College,Professional,Yes,2.0,5-10 Miles,North America,32.0,No,0.007254745254745255
+28087.0,Single,Female,40000.0,0.0,Partial College,Skilled Manual,No,1.0,1-2 Miles,North America,27.0,No,0.0846557629462041
+23668.0,Married,Female,40000.0,4.0,High School,Professional,Yes,2.0,5-10 Miles,North America,59.0,Yes,0.8477429292992794
+27441.0,Married,Male,60000.0,3.0,High School,Professional,No,2.0,2-5 Miles,North America,53.0,No,0.009777777777777778
+27261.0,Married,Male,40000.0,1.0,Bachelors,Skilled Manual,No,1.0,0-1 Miles,North America,36.0,Yes,0.9918095238095239
+18649.0,Single,Male,30000.0,1.0,High School,Clerical,Yes,2.0,1-2 Miles,North America,51.0,Yes,0.9856590909090909
+21714.0,Single,Female,80000.0,5.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,47.0,No,0.016826590076590077
+23217.0,Single,Female,60000.0,3.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,43.0,Yes,0.993926948051948
+23797.0,Single,Male,20000.0,3.0,Partial High School,Clerical,No,2.0,0-1 Miles,North America,50.0,No,0.0018627899877899875
+13216.0,Married,Female,60000.0,5.0,Bachelors,Management,Yes,3.0,10+ Miles,North America,59.0,No,0.02917743612596553
+20657.0,Single,Male,50000.0,2.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,37.0,Yes,0.9859258796758797
+12882.0,Married,Male,50000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,33.0,Yes,0.9737278138528137
+25908.0,Married,Female,60000.0,0.0,Partial College,Skilled Manual,No,1.0,1-2 Miles,North America,27.0,No,0.01255335840629958
+16753.0,Single,Female,70000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,34.0,Yes,0.9954797979797979
+14608.0,Married,Male,50000.0,4.0,Bachelors,Skilled Manual,Yes,3.0,10+ Miles,North America,42.0,No,0.009636655011655011
+24979.0,Married,Female,60000.0,2.0,Partial College,Professional,Yes,2.0,2-5 Miles,North America,57.0,Yes,0.9660825380759593
+13313.0,Married,Female,120000.0,1.0,High School,Professional,No,4.0,2-5 Miles,North America,45.0,No,0.023638278388278387
+18952.0,Married,Female,100000.0,4.0,Bachelors,Management,Yes,4.0,0-1 Miles,North America,40.0,No,0.00644459706959707
+17699.0,Married,Male,60000.0,1.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,43.0,No,0.01920496170496171
+14657.0,Married,Male,80000.0,1.0,Partial College,Skilled Manual,No,1.0,0-1 Miles,North America,47.0,Yes,0.7714038714553425
+11540.0,Single,Male,60000.0,4.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,47.0,Yes,0.9656507936507939
+11783.0,Married,Female,60000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,34.0,No,0.031139180264180267
+14602.0,Married,Female,80000.0,3.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,36.0,Yes,0.9979220779220779
+29030.0,Married,Male,70000.0,2.0,Partial High School,Skilled Manual,Yes,2.0,10+ Miles,North America,54.0,No,0.012621304134462028
+26490.0,Single,Male,70000.0,2.0,Bachelors,Management,No,1.0,2-5 Miles,North America,59.0,Yes,0.9507228327228328
+13151.0,Single,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,27.0,No,0.0011263736263736263
+17260.0,Married,Male,90000.0,5.0,Partial College,Professional,Yes,3.0,0-1 Miles,North America,41.0,No,0.0020238095238095236
+15372.0,Married,Male,80000.0,3.0,Partial College,Professional,No,2.0,2-5 Miles,North America,50.0,Yes,0.9949383116883116
+18105.0,Married,Female,60000.0,2.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,55.0,No,0.014217119868435657
+19660.0,Married,Male,80000.0,4.0,Bachelors,Management,Yes,0.0,0-1 Miles,North America,43.0,No,0.016438908313908315
+16112.0,Single,Male,70000.0,4.0,Bachelors,Professional,Yes,2.0,2-5 Miles,North America,43.0,Yes,0.9952719502719503
+20698.0,Married,Male,60000.0,4.0,Bachelors,Skilled Manual,Yes,3.0,5-10 Miles,North America,42.0,No,0.01908605977355977
+20076.0,Single,Female,10000.0,2.0,High School,Manual,Yes,2.0,1-2 Miles,North America,53.0,Yes,0.9819022366522367
+24496.0,Single,Female,40000.0,0.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,28.0,Yes,0.9954294871794872
+15468.0,Married,Female,50000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,0-1 Miles,North America,35.0,No,0.017656926406926406
+28031.0,Single,Female,70000.0,2.0,Bachelors,Management,No,1.0,2-5 Miles,North America,59.0,Yes,0.9309945054945054
+26270.0,Single,Female,20000.0,2.0,Partial High School,Clerical,Yes,2.0,1-2 Miles,North America,49.0,No,0.0030539321789321786
+22221.0,Married,Male,60000.0,2.0,High School,Professional,No,2.0,1-2 Miles,North America,48.0,Yes,0.9950714285714287
+28228.0,Single,Female,80000.0,2.0,Partial High School,Skilled Manual,No,2.0,1-2 Miles,North America,50.0,No,0.007161782661782661
+18363.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,28.0,Yes,0.9834215506715508
+23256.0,Single,Male,30000.0,1.0,High School,Clerical,No,1.0,5-10 Miles,North America,52.0,No,0.014832202111613877
+12768.0,Married,Male,30000.0,1.0,High School,Clerical,Yes,1.0,2-5 Miles,North America,52.0,Yes,0.9794047619047619
+20361.0,Married,Male,50000.0,2.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,69.0,No,0.01839949633699634
+21306.0,Single,Male,60000.0,2.0,High School,Professional,Yes,2.0,5-10 Miles,North America,51.0,No,0.007656862745098038
+13382.0,Married,Male,70000.0,5.0,Partial College,Professional,Yes,2.0,1-2 Miles,North America,57.0,Yes,0.39891204020867344
+20310.0,Single,Male,60000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,27.0,Yes,0.3449931453350572
+22971.0,Single,Female,30000.0,0.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,25.0,Yes,0.7972073894243011
+15287.0,Single,Female,50000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,33.0,Yes,0.04005919080919082
+15532.0,Single,Male,60000.0,4.0,Bachelors,Professional,Yes,2.0,2-5 Miles,North America,43.0,Yes,0.9968376068376067
+11255.0,Married,Male,70000.0,4.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,73.0,No,0.03685180097680097
+28090.0,Married,Male,40000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,27.0,No,0.010228683081624258
+15255.0,Married,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,28.0,Yes,0.9834215506715508
+13154.0,Married,Male,40000.0,0.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,27.0,Yes,0.8268496495334733
+26778.0,Single,Female,40000.0,2.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,31.0,No,0.0005
+23248.0,Married,Female,10000.0,2.0,High School,Manual,Yes,2.0,1-2 Miles,North America,53.0,No,0.010520363408521303
+21417.0,Single,Female,60000.0,0.0,Partial College,Professional,No,2.0,1-2 Miles,North America,32.0,Yes,0.9933964646464646
+17668.0,Single,Male,30000.0,2.0,High School,Skilled Manual,Yes,2.0,1-2 Miles,North America,50.0,Yes,0.9858198051948053
+27994.0,Married,Female,40000.0,4.0,High School,Professional,Yes,2.0,5-10 Miles,North America,69.0,No,0.024094807969807973
+20376.0,Single,Female,70000.0,3.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,52.0,Yes,0.9935735294117646
+25954.0,Married,Male,60000.0,0.0,Partial College,Skilled Manual,No,2.0,1-2 Miles,North America,31.0,No,0.0033720397249809016
+15749.0,Single,Female,70000.0,4.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,61.0,No,0.024542790542790547
+25899.0,Married,Female,70000.0,2.0,High School,Professional,Yes,2.0,10+ Miles,North America,53.0,No,0.009686868686868686
+13351.0,Single,Female,70000.0,4.0,Bachelors,Management,Yes,2.0,1-2 Miles,North America,62.0,Yes,0.9571148434898437
+23333.0,Married,Male,40000.0,0.0,Partial College,Skilled Manual,No,2.0,1-2 Miles,North America,30.0,No,0.002508403361344538
+21660.0,Married,Female,60000.0,3.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,43.0,Yes,0.9962905844155846
+17012.0,Married,Female,60000.0,3.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,42.0,Yes,0.9955762987012987
+24514.0,Married,Male,40000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,30.0,No,0.002369209222150399
+27505.0,Single,Female,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,30.0,No,0.0
+29243.0,Single,Male,110000.0,1.0,Bachelors,Management,Yes,1.0,5-10 Miles,North America,43.0,No,0.3601650416576888
+26582.0,Married,Male,60000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,33.0,Yes,0.9875654761904765
+14271.0,Married,Male,30000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,32.0,No,0.12758008372346605
+23041.0,Single,Female,70000.0,4.0,High School,Professional,Yes,0.0,5-10 Miles,North America,50.0,Yes,0.940175718888954
+29048.0,Single,Male,110000.0,2.0,Bachelors,Management,No,3.0,0-1 Miles,North America,37.0,Yes,0.9849955183705184
+24433.0,Married,Male,70000.0,3.0,High School,Professional,No,1.0,1-2 Miles,North America,52.0,Yes,0.9952083333333335
+15501.0,Married,Male,70000.0,4.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,36.0,Yes,0.9913228715728717
+13911.0,Single,Female,80000.0,3.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,41.0,Yes,0.9925551948051947
+20421.0,Single,Female,40000.0,0.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,North America,26.0,No,0.009734365715983363
+16009.0,Single,Male,130000.0,1.0,Graduate Degree,Management,No,4.0,0-1 Miles,North America,66.0,No,0.06846740269534388
+18411.0,Married,Male,60000.0,2.0,High School,Professional,No,2.0,5-10 Miles,North America,51.0,No,0.004464285714285714
+19163.0,Married,Female,70000.0,4.0,Bachelors,Professional,Yes,2.0,0-1 Miles,North America,43.0,Yes,0.995105588855589
+18572.0,Married,Female,60000.0,0.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,39.0,No,0.010928904428904429
+27540.0,Single,Female,70000.0,0.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,37.0,Yes,1.0
+19889.0,Single,Female,70000.0,2.0,Partial High School,Skilled Manual,No,2.0,2-5 Miles,North America,54.0,Yes,0.964667297979798
+12922.0,Single,Female,60000.0,3.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,40.0,Yes,0.9854924242424243
+18891.0,Married,Female,40000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,28.0,No,0.008512732365673542
+16773.0,Married,Male,60000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,33.0,No,0.5630264192506842
+19143.0,Single,Female,80000.0,3.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,41.0,Yes,0.9925551948051947
+23882.0,Single,Female,80000.0,3.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,37.0,Yes,1.0
+11233.0,Married,Male,70000.0,4.0,Partial College,Professional,Yes,2.0,10+ Miles,North America,53.0,No,0.011061688311688314
+12056.0,Married,Male,120000.0,2.0,Graduate Degree,Management,Yes,3.0,5-10 Miles,North America,64.0,No,0.009037393162393161
+15555.0,Married,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,2-5 Miles,North America,45.0,Yes,0.9881107503607502
+18423.0,Single,Male,80000.0,2.0,Partial High School,Skilled Manual,No,2.0,1-2 Miles,North America,52.0,No,0.009995115995115995
+22743.0,Married,Female,40000.0,5.0,High School,Professional,Yes,2.0,10+ Miles,North America,60.0,No,0.021287698412698414
+25343.0,Single,Female,20000.0,3.0,Partial High School,Clerical,Yes,2.0,1-2 Miles,North America,50.0,No,0.004553932178932178
+13390.0,Married,Female,70000.0,4.0,Partial College,Professional,No,1.0,1-2 Miles,North America,56.0,No,0.01693457930957931
+17482.0,Single,Female,40000.0,0.0,Partial High School,Clerical,Yes,2.0,5-10 Miles,North America,29.0,No,0.006467320261437908
+13176.0,Single,Male,130000.0,0.0,Graduate Degree,Management,No,2.0,0-1 Miles,North America,38.0,Yes,0.9796650710400711
+20504.0,Married,Female,40000.0,5.0,High School,Professional,No,2.0,2-5 Miles,North America,60.0,No,0.34740601954804745
+12205.0,Single,Female,130000.0,2.0,Bachelors,Management,No,4.0,0-1 Miles,North America,67.0,No,0.02189055389055389
+16751.0,Married,Male,60000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,32.0,Yes,0.9667007575757575
+21613.0,Single,Male,50000.0,2.0,Bachelors,Skilled Manual,No,1.0,0-1 Miles,North America,39.0,Yes,0.9925535714285714
+24801.0,Single,Male,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,35.0,Yes,0.9968214285714286
+17519.0,Married,Female,60000.0,0.0,Partial College,Professional,Yes,2.0,5-10 Miles,North America,32.0,No,0.0053732517482517495
+18347.0,Single,Female,30000.0,0.0,Partial College,Skilled Manual,No,1.0,1-2 Miles,North America,31.0,No,0.0013930187459599225
+29052.0,Single,Male,40000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,27.0,No,0.0112683656213068
+11745.0,Married,Female,60000.0,1.0,Bachelors,Professional,Yes,1.0,0-1 Miles,North America,47.0,Yes,0.99875
+19147.0,Married,Male,40000.0,0.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,42.0,No,0.010839285714285713
+19217.0,Married,Male,30000.0,2.0,High School,Skilled Manual,Yes,2.0,1-2 Miles,North America,49.0,No,0.0027727272727272726
+15839.0,Single,Male,30000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,32.0,No,0.011078754578754577
+13714.0,Married,Female,20000.0,2.0,High School,Manual,No,2.0,1-2 Miles,North America,53.0,Yes,0.9787911255411257
+22330.0,Married,Male,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,32.0,Yes,0.7788635294444118
+18783.0,Single,Male,80000.0,0.0,Bachelors,Management,No,1.0,0-1 Miles,North America,38.0,Yes,0.9985119047619048
+25041.0,Single,Male,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,31.0,No,0.002435897435897436
+22046.0,Single,Female,80000.0,0.0,Bachelors,Management,No,1.0,0-1 Miles,North America,38.0,Yes,0.9970833333333334
+28052.0,Married,Male,60000.0,2.0,High School,Professional,Yes,2.0,10+ Miles,North America,55.0,No,0.008134707397865292
+26693.0,Married,Male,70000.0,3.0,Partial College,Professional,Yes,1.0,5-10 Miles,North America,49.0,No,0.9887313936063936
+24955.0,Single,Male,30000.0,5.0,Partial High School,Skilled Manual,Yes,3.0,10+ Miles,North America,60.0,Yes,0.5741580991827153
+26065.0,Single,Female,110000.0,3.0,Bachelors,Management,No,4.0,1-2 Miles,North America,42.0,No,0.013235181485181486
+13942.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,0-1 Miles,North America,46.0,No,0.010477633477633476
+11219.0,Married,Male,60000.0,2.0,High School,Professional,Yes,2.0,10+ Miles,North America,55.0,No,0.008134707397865292
+22118.0,Single,Female,70000.0,3.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,53.0,Yes,0.9925735294117647
+23197.0,Married,Male,50000.0,3.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,40.0,No,0.018071969696969697
+14883.0,Married,Female,30000.0,1.0,Bachelors,Skilled Manual,Yes,1.0,5-10 Miles,North America,53.0,Yes,0.8120834793861111
+27279.0,Single,Female,70000.0,2.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,38.0,Yes,0.9693952020202022
+18322.0,Single,Male,30000.0,0.0,Partial High School,Clerical,No,2.0,0-1 Miles,North America,26.0,No,0.008673934317316669
+15879.0,Married,Male,70000.0,5.0,Bachelors,Management,Yes,2.0,2-5 Miles,North America,61.0,No,0.010372962821492235
+28278.0,Married,Male,50000.0,2.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,71.0,No,0.036876602564102565
+24416.0,Married,Male,90000.0,4.0,High School,Professional,Yes,2.0,1-2 Miles,North America,45.0,No,0.49156944422966076
+28066.0,Married,Male,80000.0,2.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,37.0,Yes,0.9992857142857143
+11275.0,Married,Female,80000.0,4.0,Graduate Degree,Management,Yes,2.0,0-1 Miles,North America,72.0,Yes,0.8570127331818505
+14872.0,Married,Male,30000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,32.0,No,0.03209521034521034
+16151.0,Married,Female,60000.0,1.0,Bachelors,Professional,Yes,1.0,2-5 Miles,North America,48.0,Yes,0.9955551948051948
+19731.0,Married,Male,80000.0,4.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,68.0,No,0.013771520146520149
+23801.0,Married,Female,20000.0,2.0,Partial High School,Clerical,Yes,2.0,0-1 Miles,North America,49.0,No,0.002125
+11807.0,Married,Male,70000.0,3.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,34.0,No,0.1730433846768986
+11622.0,Married,Male,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,32.0,No,0.031495282495282495
+26597.0,Single,Female,60000.0,4.0,Bachelors,Skilled Manual,No,2.0,0-1 Miles,North America,42.0,No,0.011497557997557997
+27074.0,Married,Female,70000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,0-1 Miles,North America,35.0,Yes,0.987397546897547
+19228.0,Married,Female,40000.0,2.0,Partial College,Clerical,Yes,1.0,0-1 Miles,North America,48.0,No,0.00588474025974026
+13415.0,Single,Male,100000.0,1.0,Graduate Degree,Management,Yes,3.0,2-5 Miles,North America,73.0,Yes,0.9331665238356414
+17000.0,Single,Female,70000.0,4.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,43.0,Yes,0.9902780275280275
+14569.0,Married,Male,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,35.0,No,0.5548061142289085
+13873.0,Married,Male,70000.0,3.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,35.0,Yes,0.9978571428571428
+20401.0,Married,Female,50000.0,4.0,Bachelors,Management,Yes,2.0,1-2 Miles,North America,64.0,Yes,0.8151235207860595
+21583.0,Married,Female,50000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,North America,34.0,Yes,0.5841012459762457
+12029.0,Married,Male,30000.0,0.0,Partial High School,Clerical,No,2.0,0-1 Miles,North America,28.0,No,0.004055878761761115
+18066.0,Single,Male,70000.0,5.0,Bachelors,Management,Yes,3.0,10+ Miles,North America,60.0,Yes,0.9621963200198494
+28192.0,Married,Female,70000.0,5.0,Graduate Degree,Professional,Yes,3.0,10+ Miles,North America,46.0,No,0.2759748588399906
+16122.0,Married,Male,40000.0,4.0,High School,Skilled Manual,Yes,2.0,0-1 Miles,North America,44.0,Yes,0.4234554545042164
+18607.0,Single,Female,60000.0,4.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,42.0,Yes,0.992773754023754
+28858.0,Single,Male,80000.0,3.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,40.0,No,0.9822543290043292
+14432.0,Single,Male,90000.0,4.0,Graduate Degree,Management,Yes,1.0,5-10 Miles,North America,73.0,No,0.06130396645837823
+26305.0,Single,Female,60000.0,2.0,Bachelors,Skilled Manual,No,0.0,0-1 Miles,North America,36.0,Yes,0.9756832611832613
+22050.0,Single,Male,90000.0,4.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,38.0,Yes,0.9811190476190477
+25394.0,Married,Male,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,34.0,Yes,0.9831289682539683
+19747.0,Married,Male,50000.0,4.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,63.0,No,0.007441849816849817
+23195.0,Single,Male,50000.0,3.0,Bachelors,Skilled Manual,Yes,2.0,2-5 Miles,North America,41.0,Yes,0.995261544011544
+21695.0,Married,Male,60000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,39.0,Yes,0.9773928571428574
+13934.0,Married,Male,40000.0,4.0,High School,Skilled Manual,Yes,2.0,2-5 Miles,North America,46.0,No,0.09775730723524839
+13337.0,Married,Female,80000.0,5.0,Bachelors,Management,Yes,2.0,5-10 Miles,North America,64.0,No,0.019152724726254136
+27190.0,Married,Female,40000.0,3.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,32.0,No,0.007670329670329669
+28657.0,Single,Male,60000.0,2.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,36.0,Yes,0.9805939893439896
+21713.0,Single,Male,80000.0,5.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,47.0,No,0.017652347652347654
+21752.0,Married,Male,60000.0,3.0,Graduate Degree,Management,Yes,2.0,10+ Miles,North America,64.0,No,0.012259615384615386
+27273.0,Single,Male,70000.0,3.0,Graduate Degree,Professional,No,0.0,0-1 Miles,North America,35.0,Yes,0.9985714285714287
+22719.0,Single,Male,110000.0,3.0,Bachelors,Management,Yes,4.0,2-5 Miles,North America,40.0,Yes,0.5870301185742359
+22042.0,Married,Female,70000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,34.0,Yes,0.6158955688918922
+21451.0,Married,Female,40000.0,4.0,High School,Professional,Yes,2.0,10+ Miles,North America,61.0,No,0.01790830003330003
+20754.0,Married,Male,30000.0,2.0,High School,Skilled Manual,Yes,2.0,1-2 Miles,North America,51.0,No,0.004606060606060607
+12153.0,Single,Female,70000.0,3.0,Partial College,Professional,Yes,1.0,5-10 Miles,North America,49.0,Yes,0.9909629953379954
+16895.0,Married,Female,40000.0,3.0,Partial College,Professional,No,2.0,1-2 Miles,North America,54.0,Yes,0.6977321852918249
+26728.0,Single,Male,70000.0,3.0,Graduate Degree,Management,No,2.0,1-2 Miles,North America,53.0,Yes,0.9901884920634921
+11090.0,Single,Male,90000.0,2.0,Partial College,Professional,Yes,1.0,2-5 Miles,North America,48.0,Yes,0.9879415584415585
+15862.0,Single,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,33.0,Yes,0.3485897884794944
+26495.0,Single,Female,40000.0,2.0,High School,Professional,Yes,2.0,10+ Miles,North America,57.0,No,0.028982864357864357
+11823.0,Married,Female,70000.0,0.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,39.0,No,0.026682872682872685
+23449.0,Married,Male,60000.0,2.0,High School,Professional,Yes,2.0,5-10 Miles,North America,48.0,No,0.0
+23459.0,Married,Male,60000.0,2.0,High School,Professional,Yes,2.0,5-10 Miles,North America,50.0,No,0.0
+19543.0,Married,Male,70000.0,5.0,Graduate Degree,Professional,No,3.0,10+ Miles,North America,47.0,No,0.019202380952380953
+14914.0,Married,Female,40000.0,1.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,49.0,Yes,0.9938766233766233
+12033.0,Single,Female,40000.0,0.0,High School,Skilled Manual,No,2.0,0-1 Miles,North America,27.0,Yes,0.9954294871794872
+11941.0,Single,Male,60000.0,0.0,Partial College,Skilled Manual,Yes,1.0,5-10 Miles,North America,29.0,No,0.014365060593001768
+14389.0,Married,Male,60000.0,2.0,Bachelors,Management,Yes,0.0,2-5 Miles,North America,59.0,No,0.026199786324786322
+18050.0,Married,Female,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,0-1 Miles,North America,45.0,Yes,0.9950555555555556
+19856.0,Married,Female,60000.0,4.0,Bachelors,Management,Yes,2.0,2-5 Miles,North America,60.0,No,0.1287056771702669
+11663.0,Married,Male,70000.0,4.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,36.0,Yes,0.9890450937950939
+27740.0,Married,Female,40000.0,0.0,High School,Skilled Manual,Yes,2.0,5-10 Miles,North America,27.0,No,0.014069444444444443
+23455.0,Single,Male,80000.0,2.0,Partial High School,Skilled Manual,No,2.0,1-2 Miles,North America,50.0,No,0.007995115995115995
+15292.0,Single,Female,60000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,35.0,No,0.03235085747585748
+21587.0,Married,Female,60000.0,1.0,Graduate Degree,Skilled Manual,Yes,0.0,2-5 Miles,North America,34.0,Yes,0.8253383071177188
+23513.0,Married,Female,40000.0,3.0,Partial College,Professional,Yes,2.0,5-10 Miles,North America,54.0,No,0.7012810233002216
+24322.0,Married,Female,60000.0,4.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,North America,42.0,No,0.003935897435897436
+26298.0,Married,Female,50000.0,1.0,Bachelors,Skilled Manual,Yes,0.0,2-5 Miles,North America,34.0,Yes,0.9889606782106781
+25419.0,Single,Male,50000.0,2.0,Bachelors,Skilled Manual,No,1.0,0-1 Miles,North America,38.0,Yes,0.9912837301587303
+13343.0,Married,Female,90000.0,5.0,Bachelors,Management,Yes,2.0,1-2 Miles,North America,63.0,Yes,0.4286462855814633
+11303.0,Single,Female,90000.0,4.0,High School,Professional,No,3.0,1-2 Miles,North America,45.0,Yes,0.7442512481713333
+21693.0,Single,Female,60000.0,0.0,Graduate Degree,Skilled Manual,No,0.0,0-1 Miles,North America,40.0,No,0.27024422881040533
+28056.0,Married,Male,70000.0,2.0,Partial High School,Skilled Manual,Yes,2.0,10+ Miles,North America,53.0,No,0.007621304134462028
+11788.0,Single,Female,70000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,34.0,No,0.997952380952381
+22296.0,Married,Male,70000.0,0.0,Bachelors,Professional,No,1.0,0-1 Miles,North America,38.0,No,0.004398989898989899
+15319.0,Married,Female,70000.0,4.0,Bachelors,Management,No,1.0,1-2 Miles,North America,59.0,No,0.009884060384060384
+17654.0,Single,Female,40000.0,3.0,Partial College,Clerical,Yes,1.0,1-2 Miles,North America,30.0,Yes,0.9817842712842713
+14662.0,Married,Male,60000.0,1.0,Bachelors,Professional,Yes,1.0,0-1 Miles,North America,48.0,Yes,0.9978409090909091
+17541.0,Married,Female,40000.0,4.0,High School,Skilled Manual,Yes,2.0,2-5 Miles,North America,43.0,No,0.3745502885916972
+13886.0,Married,Female,70000.0,4.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,35.0,Yes,0.992182844932845
+13073.0,Married,Female,60000.0,0.0,Partial College,Professional,Yes,2.0,5-10 Miles,North America,30.0,No,0.0026136363636363636
+21940.0,Married,Male,90000.0,5.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,47.0,Yes,0.9308463758463759
+20196.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,Yes,1.0,2-5 Miles,North America,45.0,Yes,0.4271829983741749
+23491.0,Single,Male,100000.0,2.0,Partial College,Professional,No,4.0,1-2 Miles,North America,45.0,No,0.029966630591630586
+16651.0,Married,Female,120000.0,2.0,Bachelors,Management,Yes,3.0,5-10 Miles,North America,62.0,No,0.007816544566544566
+16813.0,Married,Male,60000.0,2.0,Partial College,Professional,Yes,2.0,10+ Miles,North America,55.0,No,0.011868093894409681
+16007.0,Married,Female,90000.0,5.0,Bachelors,Management,Yes,2.0,1-2 Miles,North America,66.0,Yes,0.4170117811969591
+27434.0,Single,Male,70000.0,4.0,Partial College,Professional,Yes,1.0,10+ Miles,North America,56.0,No,0.018508658008658013
+27756.0,Single,Female,50000.0,3.0,Bachelors,Skilled Manual,No,1.0,0-1 Miles,North America,40.0,No,0.017029317904317904
+23818.0,Married,Female,50000.0,0.0,Graduate Degree,Skilled Manual,Yes,0.0,1-2 Miles,North America,33.0,Yes,0.9850119047619047
+19012.0,Married,Male,80000.0,3.0,Bachelors,Management,Yes,1.0,1-2 Miles,North America,56.0,No,0.006116758241758241
+18329.0,Single,Male,30000.0,0.0,Partial High School,Clerical,No,2.0,5-10 Miles,North America,27.0,No,0.006575720031602383
+29037.0,Married,Male,60000.0,0.0,Graduate Degree,Professional,No,0.0,0-1 Miles,North America,39.0,No,0.01570668220668221
+26576.0,Married,Female,60000.0,0.0,Partial College,Skilled Manual,Yes,2.0,5-10 Miles,North America,31.0,No,0.0015441176470588236
+12192.0,Single,Female,60000.0,2.0,Partial High School,Skilled Manual,No,2.0,1-2 Miles,North America,51.0,No,0.0029401709401709404
+14887.0,Married,Female,30000.0,1.0,High School,Clerical,Yes,1.0,5-10 Miles,North America,52.0,No,0.017998868778280542
+11734.0,Married,Male,60000.0,1.0,Partial College,Skilled Manual,No,1.0,0-1 Miles,North America,47.0,No,0.4120625444816622
+17462.0,Married,Male,70000.0,3.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,53.0,Yes,0.5139982766416591
+20659.0,Married,Male,70000.0,3.0,Graduate Degree,Professional,Yes,0.0,0-1 Miles,North America,35.0,Yes,0.9978571428571428
+28004.0,Married,Female,60000.0,3.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,66.0,No,0.007148504273504274
+19741.0,Single,Female,80000.0,4.0,Graduate Degree,Management,Yes,2.0,5-10 Miles,North America,65.0,No,0.01881425518925519
+17450.0,Married,Male,80000.0,5.0,Partial College,Professional,Yes,3.0,5-10 Miles,North America,45.0,No,0.002987012987012987
+17337.0,Single,Male,40000.0,0.0,High School,Skilled Manual,Yes,1.0,5-10 Miles,North America,31.0,No,0.004852869352869353
+18594.0,Single,Female,80000.0,3.0,Bachelors,Skilled Manual,Yes,3.0,10+ Miles,North America,40.0,Yes,0.9829801587301585
+15982.0,Married,Male,110000.0,5.0,Partial College,Professional,Yes,4.0,2-5 Miles,North America,46.0,No,0.011664668664668665
+28625.0,Single,Male,40000.0,2.0,Partial College,Clerical,No,1.0,1-2 Miles,North America,47.0,Yes,0.9945952380952382
+11269.0,Married,Male,130000.0,2.0,Graduate Degree,Management,Yes,2.0,0-1 Miles,North America,41.0,No,0.012380647130647134
+25148.0,Married,Male,60000.0,2.0,High School,Professional,No,2.0,1-2 Miles,North America,48.0,Yes,0.9950714285714287
+13920.0,Single,Female,50000.0,4.0,Bachelors,Skilled Manual,Yes,2.0,0-1 Miles,North America,42.0,No,0.011779609279609282
+23704.0,Single,Male,40000.0,5.0,High School,Professional,Yes,4.0,10+ Miles,North America,43.0,Yes,0.7036969537815129
+28972.0,Single,Female,60000.0,3.0,Graduate Degree,Management,Yes,2.0,10+ Miles,North America,66.0,No,0.03369459706959707
+22730.0,Married,Male,70000.0,5.0,Bachelors,Management,Yes,2.0,10+ Miles,North America,63.0,No,0.023786021984551396
+29134.0,Married,Male,60000.0,4.0,Bachelors,Skilled Manual,No,3.0,10+ Miles,North America,42.0,No,0.011475815850815852
+14332.0,Single,Female,30000.0,0.0,High School,Skilled Manual,No,2.0,5-10 Miles,North America,26.0,No,0.007951388888888888
+19117.0,Single,Female,60000.0,1.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,36.0,Yes,0.9956363636363637
+22864.0,Married,Male,90000.0,2.0,Partial College,Professional,No,0.0,5-10 Miles,North America,49.0,Yes,0.9828071511821511
+11292.0,Single,Male,130000.0,1.0,Partial College,Professional,No,3.0,0-1 Miles,North America,44.0,Yes,0.991208485958486
+13466.0,Married,Male,80000.0,5.0,Partial College,Professional,Yes,3.0,1-2 Miles,North America,46.0,No,0.008602092352092352
+23731.0,Married,Male,60000.0,2.0,High School,Professional,Yes,2.0,2-5 Miles,North America,54.0,Yes,0.7054453363263768
+28672.0,Single,Male,70000.0,4.0,Graduate Degree,Professional,Yes,0.0,2-5 Miles,North America,35.0,Yes,0.9938174603174603
+11809.0,Married,Male,60000.0,2.0,Bachelors,Skilled Manual,Yes,0.0,0-1 Miles,North America,38.0,Yes,0.9880165945165946
+19664.0,Single,Male,100000.0,3.0,Bachelors,Management,No,3.0,1-2 Miles,North America,38.0,No,0.49234300829889066
+12121.0,Single,Male,60000.0,3.0,High School,Professional,Yes,2.0,10+ Miles,North America,53.0,Yes,0.9863888888888889
